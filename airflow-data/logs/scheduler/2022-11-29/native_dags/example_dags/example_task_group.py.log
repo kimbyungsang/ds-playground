@@ -1,0 +1,826 @@
+[2022-11-29 10:20:02,644] {processor.py:163} INFO - Started process (PID=43678) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:20:02,645] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:20:02,645] {logging_mixin.py:109} INFO - [2022-11-29 10:20:02,645] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:20:02,680] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:20:02,696] {logging_mixin.py:109} INFO - [2022-11-29 10:20:02,696] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:20:02,705] {logging_mixin.py:109} INFO - [2022-11-29 10:20:02,705] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:20:02.705636+00:00
+[2022-11-29 10:20:02,713] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2022-11-29 10:21:15,865] {processor.py:163} INFO - Started process (PID=43891) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:21:15,871] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:21:15,872] {logging_mixin.py:109} INFO - [2022-11-29 10:21:15,872] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:21:15,905] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:21:15,923] {logging_mixin.py:109} INFO - [2022-11-29 10:21:15,923] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:21:15,930] {logging_mixin.py:109} INFO - [2022-11-29 10:21:15,930] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:21:15.930340+00:00
+[2022-11-29 10:21:15,937] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2022-11-29 10:22:51,238] {processor.py:163} INFO - Started process (PID=44063) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:22:51,239] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:22:51,240] {logging_mixin.py:109} INFO - [2022-11-29 10:22:51,240] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:22:51,377] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:22:51,442] {logging_mixin.py:109} INFO - [2022-11-29 10:22:51,442] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:22:51,482] {logging_mixin.py:109} INFO - [2022-11-29 10:22:51,482] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:22:51.482639+00:00
+[2022-11-29 10:22:51,496] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.262 seconds
+[2022-11-29 10:26:18,179] {processor.py:163} INFO - Started process (PID=44277) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:26:18,181] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:26:18,183] {logging_mixin.py:109} INFO - [2022-11-29 10:26:18,182] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:26:18,223] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:26:18,243] {logging_mixin.py:109} INFO - [2022-11-29 10:26:18,243] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:26:18,255] {logging_mixin.py:109} INFO - [2022-11-29 10:26:18,255] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:26:18.254972+00:00
+[2022-11-29 10:26:18,263] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.085 seconds
+[2022-11-29 10:27:52,997] {processor.py:163} INFO - Started process (PID=44491) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:27:52,997] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:27:52,998] {logging_mixin.py:109} INFO - [2022-11-29 10:27:52,998] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:27:53,028] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:27:53,045] {logging_mixin.py:109} INFO - [2022-11-29 10:27:53,044] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:27:53,052] {logging_mixin.py:109} INFO - [2022-11-29 10:27:53,052] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:27:53.052442+00:00
+[2022-11-29 10:27:53,060] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2022-11-29 10:29:07,927] {processor.py:163} INFO - Started process (PID=44628) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:29:07,927] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:29:07,927] {logging_mixin.py:109} INFO - [2022-11-29 10:29:07,927] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:29:07,958] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:29:07,975] {logging_mixin.py:109} INFO - [2022-11-29 10:29:07,975] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:29:07,984] {logging_mixin.py:109} INFO - [2022-11-29 10:29:07,984] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:29:07.984157+00:00
+[2022-11-29 10:29:07,998] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2022-11-29 10:31:05,875] {processor.py:163} INFO - Started process (PID=47673) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:31:05,876] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:31:05,876] {logging_mixin.py:109} INFO - [2022-11-29 10:31:05,876] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:31:05,917] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:31:05,935] {logging_mixin.py:109} INFO - [2022-11-29 10:31:05,935] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:31:05,944] {logging_mixin.py:109} INFO - [2022-11-29 10:31:05,944] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:31:05.943972+00:00
+[2022-11-29 10:31:05,951] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.077 seconds
+[2022-11-29 10:32:21,582] {processor.py:163} INFO - Started process (PID=47807) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:32:21,589] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:32:21,589] {logging_mixin.py:109} INFO - [2022-11-29 10:32:21,589] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:32:21,622] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:32:21,639] {logging_mixin.py:109} INFO - [2022-11-29 10:32:21,639] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:32:21,648] {logging_mixin.py:109} INFO - [2022-11-29 10:32:21,647] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:32:21.647801+00:00
+[2022-11-29 10:32:21,657] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2022-11-29 10:33:36,720] {processor.py:163} INFO - Started process (PID=48602) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:33:36,726] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:33:36,726] {logging_mixin.py:109} INFO - [2022-11-29 10:33:36,726] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:33:36,758] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:33:36,774] {logging_mixin.py:109} INFO - [2022-11-29 10:33:36,774] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:33:36,782] {logging_mixin.py:109} INFO - [2022-11-29 10:33:36,782] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:33:36.782252+00:00
+[2022-11-29 10:33:36,794] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2022-11-29 10:34:51,662] {processor.py:163} INFO - Started process (PID=48727) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:34:51,668] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:34:51,669] {logging_mixin.py:109} INFO - [2022-11-29 10:34:51,669] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:34:51,702] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:34:51,718] {logging_mixin.py:109} INFO - [2022-11-29 10:34:51,718] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:34:51,726] {logging_mixin.py:109} INFO - [2022-11-29 10:34:51,726] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:34:51.725868+00:00
+[2022-11-29 10:34:51,736] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2022-11-29 10:36:11,873] {processor.py:163} INFO - Started process (PID=48866) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:36:11,879] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:36:11,880] {logging_mixin.py:109} INFO - [2022-11-29 10:36:11,880] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:36:11,912] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:36:11,929] {logging_mixin.py:109} INFO - [2022-11-29 10:36:11,928] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:36:11,936] {logging_mixin.py:109} INFO - [2022-11-29 10:36:11,936] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:36:11.936453+00:00
+[2022-11-29 10:36:11,945] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2022-11-29 10:37:27,795] {processor.py:163} INFO - Started process (PID=48993) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:37:27,795] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:37:27,796] {logging_mixin.py:109} INFO - [2022-11-29 10:37:27,796] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:37:27,824] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:37:27,840] {logging_mixin.py:109} INFO - [2022-11-29 10:37:27,839] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:37:27,847] {logging_mixin.py:109} INFO - [2022-11-29 10:37:27,847] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:37:27.847075+00:00
+[2022-11-29 10:37:27,855] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2022-11-29 10:38:39,116] {processor.py:163} INFO - Started process (PID=49115) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:38:39,118] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:38:39,119] {logging_mixin.py:109} INFO - [2022-11-29 10:38:39,119] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:38:39,152] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:38:39,169] {logging_mixin.py:109} INFO - [2022-11-29 10:38:39,169] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:38:39,177] {logging_mixin.py:109} INFO - [2022-11-29 10:38:39,176] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:38:39.176775+00:00
+[2022-11-29 10:38:39,186] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2022-11-29 10:39:55,960] {processor.py:163} INFO - Started process (PID=49285) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:39:55,962] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:39:55,963] {logging_mixin.py:109} INFO - [2022-11-29 10:39:55,963] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:39:55,996] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:39:56,013] {logging_mixin.py:109} INFO - [2022-11-29 10:39:56,013] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:39:56,021] {logging_mixin.py:109} INFO - [2022-11-29 10:39:56,020] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:39:56.020817+00:00
+[2022-11-29 10:39:56,029] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2022-11-29 10:41:07,929] {processor.py:163} INFO - Started process (PID=49473) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:41:07,930] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:41:07,930] {logging_mixin.py:109} INFO - [2022-11-29 10:41:07,930] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:41:07,959] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:41:07,976] {logging_mixin.py:109} INFO - [2022-11-29 10:41:07,976] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:41:07,984] {logging_mixin.py:109} INFO - [2022-11-29 10:41:07,983] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:41:07.983799+00:00
+[2022-11-29 10:41:07,995] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2022-11-29 10:42:20,801] {processor.py:163} INFO - Started process (PID=49593) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:42:20,801] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:42:20,801] {logging_mixin.py:109} INFO - [2022-11-29 10:42:20,801] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:42:20,830] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:42:20,847] {logging_mixin.py:109} INFO - [2022-11-29 10:42:20,847] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:42:20,855] {logging_mixin.py:109} INFO - [2022-11-29 10:42:20,855] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:42:20.855502+00:00
+[2022-11-29 10:42:20,868] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2022-11-29 10:43:37,289] {processor.py:163} INFO - Started process (PID=49722) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:43:37,289] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:43:37,289] {logging_mixin.py:109} INFO - [2022-11-29 10:43:37,289] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:43:37,317] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:43:37,334] {logging_mixin.py:109} INFO - [2022-11-29 10:43:37,333] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:43:37,341] {logging_mixin.py:109} INFO - [2022-11-29 10:43:37,341] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:43:37.341688+00:00
+[2022-11-29 10:43:37,354] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2022-11-29 10:44:52,262] {processor.py:163} INFO - Started process (PID=49847) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:44:52,262] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:44:52,262] {logging_mixin.py:109} INFO - [2022-11-29 10:44:52,262] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:44:52,293] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:44:52,310] {logging_mixin.py:109} INFO - [2022-11-29 10:44:52,310] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:44:52,318] {logging_mixin.py:109} INFO - [2022-11-29 10:44:52,318] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:44:52.318102+00:00
+[2022-11-29 10:44:52,327] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2022-11-29 10:46:12,911] {processor.py:163} INFO - Started process (PID=49978) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:46:12,917] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:46:12,918] {logging_mixin.py:109} INFO - [2022-11-29 10:46:12,918] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:46:12,955] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:46:12,975] {logging_mixin.py:109} INFO - [2022-11-29 10:46:12,975] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:46:12,984] {logging_mixin.py:109} INFO - [2022-11-29 10:46:12,984] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:46:12.984053+00:00
+[2022-11-29 10:46:12,990] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.080 seconds
+[2022-11-29 10:47:31,875] {processor.py:163} INFO - Started process (PID=50105) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:47:31,881] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:47:31,881] {logging_mixin.py:109} INFO - [2022-11-29 10:47:31,881] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:47:31,917] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:47:31,935] {logging_mixin.py:109} INFO - [2022-11-29 10:47:31,935] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:47:31,942] {logging_mixin.py:109} INFO - [2022-11-29 10:47:31,942] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:47:31.942776+00:00
+[2022-11-29 10:47:31,952] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.078 seconds
+[2022-11-29 10:48:52,993] {processor.py:163} INFO - Started process (PID=50238) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:48:52,995] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:48:52,995] {logging_mixin.py:109} INFO - [2022-11-29 10:48:52,995] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:48:53,030] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:48:53,048] {logging_mixin.py:109} INFO - [2022-11-29 10:48:53,048] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:48:53,056] {logging_mixin.py:109} INFO - [2022-11-29 10:48:53,056] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:48:53.055925+00:00
+[2022-11-29 10:48:53,064] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2022-11-29 10:50:12,743] {processor.py:163} INFO - Started process (PID=50370) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:50:12,745] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:50:12,745] {logging_mixin.py:109} INFO - [2022-11-29 10:50:12,745] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:50:12,776] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:50:12,795] {logging_mixin.py:109} INFO - [2022-11-29 10:50:12,795] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:50:12,803] {logging_mixin.py:109} INFO - [2022-11-29 10:50:12,803] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:50:12.803258+00:00
+[2022-11-29 10:50:12,810] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2022-11-29 10:51:36,526] {processor.py:163} INFO - Started process (PID=50499) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:51:36,527] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:51:36,529] {logging_mixin.py:109} INFO - [2022-11-29 10:51:36,528] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:51:36,608] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:51:36,658] {logging_mixin.py:109} INFO - [2022-11-29 10:51:36,658] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:51:36,680] {logging_mixin.py:109} INFO - [2022-11-29 10:51:36,680] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:51:36.679316+00:00
+[2022-11-29 10:51:36,703] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.177 seconds
+[2022-11-29 10:52:53,760] {processor.py:163} INFO - Started process (PID=50639) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:52:53,762] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:52:53,763] {logging_mixin.py:109} INFO - [2022-11-29 10:52:53,763] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:52:53,794] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:52:53,810] {logging_mixin.py:109} INFO - [2022-11-29 10:52:53,810] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:52:53,818] {logging_mixin.py:109} INFO - [2022-11-29 10:52:53,818] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:52:53.817889+00:00
+[2022-11-29 10:52:53,828] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2022-11-29 10:54:13,673] {processor.py:163} INFO - Started process (PID=50774) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:54:13,679] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:54:13,680] {logging_mixin.py:109} INFO - [2022-11-29 10:54:13,680] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:54:13,712] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:54:13,728] {logging_mixin.py:109} INFO - [2022-11-29 10:54:13,728] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:54:13,735] {logging_mixin.py:109} INFO - [2022-11-29 10:54:13,735] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:54:13.735361+00:00
+[2022-11-29 10:54:13,745] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2022-11-29 10:55:36,027] {processor.py:163} INFO - Started process (PID=50918) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:55:36,028] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:55:36,028] {logging_mixin.py:109} INFO - [2022-11-29 10:55:36,028] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:55:36,058] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:55:36,076] {logging_mixin.py:109} INFO - [2022-11-29 10:55:36,076] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:55:36,085] {logging_mixin.py:109} INFO - [2022-11-29 10:55:36,084] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:55:36.084852+00:00
+[2022-11-29 10:55:36,097] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2022-11-29 10:56:55,274] {processor.py:163} INFO - Started process (PID=51053) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:56:55,280] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:56:55,280] {logging_mixin.py:109} INFO - [2022-11-29 10:56:55,280] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:56:55,312] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:56:55,328] {logging_mixin.py:109} INFO - [2022-11-29 10:56:55,328] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:56:55,335] {logging_mixin.py:109} INFO - [2022-11-29 10:56:55,335] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:56:55.335779+00:00
+[2022-11-29 10:56:55,344] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2022-11-29 10:58:10,619] {processor.py:163} INFO - Started process (PID=51186) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:58:10,622] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 10:58:10,622] {logging_mixin.py:109} INFO - [2022-11-29 10:58:10,622] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:58:10,652] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 10:58:10,669] {logging_mixin.py:109} INFO - [2022-11-29 10:58:10,669] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:58:10,677] {logging_mixin.py:109} INFO - [2022-11-29 10:58:10,677] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T01:58:10.676942+00:00
+[2022-11-29 10:58:10,685] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2022-11-29 11:14:41,103] {processor.py:163} INFO - Started process (PID=51375) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:14:41,105] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:14:41,106] {logging_mixin.py:109} INFO - [2022-11-29 11:14:41,106] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:14:41,165] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:14:41,186] {logging_mixin.py:109} INFO - [2022-11-29 11:14:41,185] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:14:41,195] {logging_mixin.py:109} INFO - [2022-11-29 11:14:41,195] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:14:41.195111+00:00
+[2022-11-29 11:14:41,204] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.102 seconds
+[2022-11-29 11:16:03,200] {processor.py:163} INFO - Started process (PID=51534) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:16:03,200] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:16:03,201] {logging_mixin.py:109} INFO - [2022-11-29 11:16:03,200] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:16:03,232] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:16:03,250] {logging_mixin.py:109} INFO - [2022-11-29 11:16:03,250] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:16:03,258] {logging_mixin.py:109} INFO - [2022-11-29 11:16:03,258] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:16:03.258441+00:00
+[2022-11-29 11:16:03,264] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2022-11-29 11:17:24,201] {processor.py:163} INFO - Started process (PID=51669) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:17:24,204] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:17:24,205] {logging_mixin.py:109} INFO - [2022-11-29 11:17:24,205] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:17:24,253] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:17:24,283] {logging_mixin.py:109} INFO - [2022-11-29 11:17:24,283] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:17:24,299] {logging_mixin.py:109} INFO - [2022-11-29 11:17:24,299] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:17:24.298801+00:00
+[2022-11-29 11:17:24,308] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.107 seconds
+[2022-11-29 11:18:43,969] {processor.py:163} INFO - Started process (PID=51808) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:18:43,969] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:18:43,970] {logging_mixin.py:109} INFO - [2022-11-29 11:18:43,970] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:18:44,013] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:18:44,030] {logging_mixin.py:109} INFO - [2022-11-29 11:18:44,030] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:18:44,038] {logging_mixin.py:109} INFO - [2022-11-29 11:18:44,038] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:18:44.038243+00:00
+[2022-11-29 11:18:44,048] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.081 seconds
+[2022-11-29 11:20:09,218] {processor.py:163} INFO - Started process (PID=51953) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:20:09,221] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:20:09,221] {logging_mixin.py:109} INFO - [2022-11-29 11:20:09,221] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:20:09,255] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:20:09,274] {logging_mixin.py:109} INFO - [2022-11-29 11:20:09,274] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:20:09,284] {logging_mixin.py:109} INFO - [2022-11-29 11:20:09,284] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:20:09.284098+00:00
+[2022-11-29 11:20:09,292] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2022-11-29 11:21:35,525] {processor.py:163} INFO - Started process (PID=52100) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:21:35,528] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:21:35,529] {logging_mixin.py:109} INFO - [2022-11-29 11:21:35,529] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:21:35,562] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:21:35,578] {logging_mixin.py:109} INFO - [2022-11-29 11:21:35,578] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:21:35,585] {logging_mixin.py:109} INFO - [2022-11-29 11:21:35,585] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:21:35.585746+00:00
+[2022-11-29 11:21:35,599] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2022-11-29 11:23:10,381] {processor.py:163} INFO - Started process (PID=52265) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:23:10,384] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:23:10,385] {logging_mixin.py:109} INFO - [2022-11-29 11:23:10,384] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:23:10,416] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:23:10,432] {logging_mixin.py:109} INFO - [2022-11-29 11:23:10,432] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:23:10,440] {logging_mixin.py:109} INFO - [2022-11-29 11:23:10,440] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:23:10.439983+00:00
+[2022-11-29 11:23:10,449] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2022-11-29 11:24:31,471] {processor.py:163} INFO - Started process (PID=52416) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:24:31,472] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:24:31,473] {logging_mixin.py:109} INFO - [2022-11-29 11:24:31,473] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:24:31,505] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:24:31,522] {logging_mixin.py:109} INFO - [2022-11-29 11:24:31,522] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:24:31,529] {logging_mixin.py:109} INFO - [2022-11-29 11:24:31,529] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:24:31.529718+00:00
+[2022-11-29 11:24:31,539] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2022-11-29 11:25:56,095] {processor.py:163} INFO - Started process (PID=52560) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:25:56,101] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:25:56,102] {logging_mixin.py:109} INFO - [2022-11-29 11:25:56,102] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:25:56,136] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:25:56,154] {logging_mixin.py:109} INFO - [2022-11-29 11:25:56,153] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:25:56,161] {logging_mixin.py:109} INFO - [2022-11-29 11:25:56,161] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:25:56.161397+00:00
+[2022-11-29 11:25:56,171] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.077 seconds
+[2022-11-29 11:27:23,914] {processor.py:163} INFO - Started process (PID=52708) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:27:23,915] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:27:23,915] {logging_mixin.py:109} INFO - [2022-11-29 11:27:23,915] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:27:23,947] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:27:23,963] {logging_mixin.py:109} INFO - [2022-11-29 11:27:23,963] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:27:23,970] {logging_mixin.py:109} INFO - [2022-11-29 11:27:23,970] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:27:23.970370+00:00
+[2022-11-29 11:27:23,978] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2022-11-29 11:28:46,356] {processor.py:163} INFO - Started process (PID=52844) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:28:46,362] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:28:46,363] {logging_mixin.py:109} INFO - [2022-11-29 11:28:46,363] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:28:46,395] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:28:46,411] {logging_mixin.py:109} INFO - [2022-11-29 11:28:46,411] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:28:46,419] {logging_mixin.py:109} INFO - [2022-11-29 11:28:46,419] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:28:46.418973+00:00
+[2022-11-29 11:28:46,427] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2022-11-29 11:30:07,114] {processor.py:163} INFO - Started process (PID=52984) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:30:07,115] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:30:07,115] {logging_mixin.py:109} INFO - [2022-11-29 11:30:07,115] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:30:07,146] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:30:07,165] {logging_mixin.py:109} INFO - [2022-11-29 11:30:07,165] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:30:07,176] {logging_mixin.py:109} INFO - [2022-11-29 11:30:07,176] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:30:07.176489+00:00
+[2022-11-29 11:30:07,194] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.081 seconds
+[2022-11-29 11:31:27,300] {processor.py:163} INFO - Started process (PID=53120) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:31:27,306] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:31:27,307] {logging_mixin.py:109} INFO - [2022-11-29 11:31:27,307] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:31:27,338] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:31:27,354] {logging_mixin.py:109} INFO - [2022-11-29 11:31:27,354] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:31:27,361] {logging_mixin.py:109} INFO - [2022-11-29 11:31:27,361] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:31:27.361084+00:00
+[2022-11-29 11:31:27,369] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2022-11-29 11:32:53,216] {processor.py:163} INFO - Started process (PID=53256) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:32:53,222] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:32:53,223] {logging_mixin.py:109} INFO - [2022-11-29 11:32:53,223] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:32:53,258] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:32:53,278] {logging_mixin.py:109} INFO - [2022-11-29 11:32:53,278] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:32:53,287] {logging_mixin.py:109} INFO - [2022-11-29 11:32:53,287] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:32:53.287069+00:00
+[2022-11-29 11:32:53,295] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.079 seconds
+[2022-11-29 11:34:17,699] {processor.py:163} INFO - Started process (PID=53397) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:34:17,705] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:34:17,706] {logging_mixin.py:109} INFO - [2022-11-29 11:34:17,706] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:34:17,739] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:34:17,758] {logging_mixin.py:109} INFO - [2022-11-29 11:34:17,757] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:34:17,765] {logging_mixin.py:109} INFO - [2022-11-29 11:34:17,765] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:34:17.765265+00:00
+[2022-11-29 11:34:17,776] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.078 seconds
+[2022-11-29 11:35:39,063] {processor.py:163} INFO - Started process (PID=53540) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:35:39,070] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:35:39,070] {logging_mixin.py:109} INFO - [2022-11-29 11:35:39,070] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:35:39,102] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:35:39,118] {logging_mixin.py:109} INFO - [2022-11-29 11:35:39,118] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:35:39,126] {logging_mixin.py:109} INFO - [2022-11-29 11:35:39,126] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:35:39.126118+00:00
+[2022-11-29 11:35:39,135] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2022-11-29 11:37:04,619] {processor.py:163} INFO - Started process (PID=53694) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:37:04,620] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:37:04,621] {logging_mixin.py:109} INFO - [2022-11-29 11:37:04,621] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:37:04,657] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:37:04,676] {logging_mixin.py:109} INFO - [2022-11-29 11:37:04,676] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:37:04,683] {logging_mixin.py:109} INFO - [2022-11-29 11:37:04,683] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:37:04.683609+00:00
+[2022-11-29 11:37:04,689] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2022-11-29 11:38:18,494] {processor.py:163} INFO - Started process (PID=53820) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:38:18,500] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:38:18,501] {logging_mixin.py:109} INFO - [2022-11-29 11:38:18,501] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:38:18,535] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:38:18,559] {logging_mixin.py:109} INFO - [2022-11-29 11:38:18,559] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:38:18,566] {logging_mixin.py:109} INFO - [2022-11-29 11:38:18,566] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:38:18.566540+00:00
+[2022-11-29 11:38:18,575] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.081 seconds
+[2022-11-29 11:39:36,036] {processor.py:163} INFO - Started process (PID=53950) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:39:36,042] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:39:36,043] {logging_mixin.py:109} INFO - [2022-11-29 11:39:36,043] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:39:36,072] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:39:36,088] {logging_mixin.py:109} INFO - [2022-11-29 11:39:36,088] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:39:36,095] {logging_mixin.py:109} INFO - [2022-11-29 11:39:36,095] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:39:36.095210+00:00
+[2022-11-29 11:39:36,103] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2022-11-29 11:40:57,694] {processor.py:163} INFO - Started process (PID=54086) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:40:57,695] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:40:57,695] {logging_mixin.py:109} INFO - [2022-11-29 11:40:57,695] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:40:57,725] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:40:57,742] {logging_mixin.py:109} INFO - [2022-11-29 11:40:57,742] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:40:57,750] {logging_mixin.py:109} INFO - [2022-11-29 11:40:57,750] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:40:57.750105+00:00
+[2022-11-29 11:40:57,761] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2022-11-29 11:42:19,795] {processor.py:163} INFO - Started process (PID=54276) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:42:19,801] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:42:19,802] {logging_mixin.py:109} INFO - [2022-11-29 11:42:19,802] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:42:19,837] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:42:19,854] {logging_mixin.py:109} INFO - [2022-11-29 11:42:19,854] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:42:19,861] {logging_mixin.py:109} INFO - [2022-11-29 11:42:19,861] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:42:19.861364+00:00
+[2022-11-29 11:42:19,869] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2022-11-29 11:43:39,016] {processor.py:163} INFO - Started process (PID=54436) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:43:39,016] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:43:39,016] {logging_mixin.py:109} INFO - [2022-11-29 11:43:39,016] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:43:39,047] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:43:39,063] {logging_mixin.py:109} INFO - [2022-11-29 11:43:39,063] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:43:39,073] {logging_mixin.py:109} INFO - [2022-11-29 11:43:39,073] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:43:39.073113+00:00
+[2022-11-29 11:43:39,080] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2022-11-29 11:44:59,050] {processor.py:163} INFO - Started process (PID=54618) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:44:59,057] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:44:59,058] {logging_mixin.py:109} INFO - [2022-11-29 11:44:59,057] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:44:59,094] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:44:59,115] {logging_mixin.py:109} INFO - [2022-11-29 11:44:59,114] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:44:59,122] {logging_mixin.py:109} INFO - [2022-11-29 11:44:59,122] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:44:59.122361+00:00
+[2022-11-29 11:44:59,128] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.079 seconds
+[2022-11-29 11:46:18,215] {processor.py:163} INFO - Started process (PID=54753) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:46:18,217] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:46:18,218] {logging_mixin.py:109} INFO - [2022-11-29 11:46:18,218] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:46:18,250] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:46:18,267] {logging_mixin.py:109} INFO - [2022-11-29 11:46:18,267] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:46:18,275] {logging_mixin.py:109} INFO - [2022-11-29 11:46:18,275] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:46:18.275194+00:00
+[2022-11-29 11:46:18,283] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2022-11-29 11:47:42,279] {processor.py:163} INFO - Started process (PID=54892) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:47:42,282] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:47:42,282] {logging_mixin.py:109} INFO - [2022-11-29 11:47:42,282] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:47:42,317] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:47:42,337] {logging_mixin.py:109} INFO - [2022-11-29 11:47:42,336] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:47:42,344] {logging_mixin.py:109} INFO - [2022-11-29 11:47:42,344] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:47:42.344222+00:00
+[2022-11-29 11:47:42,350] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2022-11-29 11:49:31,052] {processor.py:163} INFO - Started process (PID=55049) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:49:31,054] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:49:31,055] {logging_mixin.py:109} INFO - [2022-11-29 11:49:31,055] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:49:31,112] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:49:31,145] {logging_mixin.py:109} INFO - [2022-11-29 11:49:31,144] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:49:31,161] {logging_mixin.py:109} INFO - [2022-11-29 11:49:31,161] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:49:31.161523+00:00
+[2022-11-29 11:49:31,177] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.126 seconds
+[2022-11-29 11:51:27,648] {processor.py:163} INFO - Started process (PID=55213) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:51:27,654] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:51:27,654] {logging_mixin.py:109} INFO - [2022-11-29 11:51:27,654] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:51:27,697] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:51:27,725] {logging_mixin.py:109} INFO - [2022-11-29 11:51:27,725] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:51:27,738] {logging_mixin.py:109} INFO - [2022-11-29 11:51:27,737] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:51:27.737555+00:00
+[2022-11-29 11:51:27,749] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.102 seconds
+[2022-11-29 11:53:27,697] {processor.py:163} INFO - Started process (PID=55385) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:53:27,698] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:53:27,698] {logging_mixin.py:109} INFO - [2022-11-29 11:53:27,698] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:53:27,743] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:53:27,771] {logging_mixin.py:109} INFO - [2022-11-29 11:53:27,771] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:53:27,786] {logging_mixin.py:109} INFO - [2022-11-29 11:53:27,786] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:53:27.786283+00:00
+[2022-11-29 11:53:27,803] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.106 seconds
+[2022-11-29 11:55:22,824] {processor.py:163} INFO - Started process (PID=55551) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:55:22,825] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:55:22,825] {logging_mixin.py:109} INFO - [2022-11-29 11:55:22,825] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:55:22,870] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:55:22,894] {logging_mixin.py:109} INFO - [2022-11-29 11:55:22,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:55:22,913] {logging_mixin.py:109} INFO - [2022-11-29 11:55:22,913] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:55:22.913293+00:00
+[2022-11-29 11:55:22,926] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.103 seconds
+[2022-11-29 11:57:46,129] {processor.py:163} INFO - Started process (PID=55760) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:57:46,130] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 11:57:46,130] {logging_mixin.py:109} INFO - [2022-11-29 11:57:46,130] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:57:46,192] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 11:57:46,217] {logging_mixin.py:109} INFO - [2022-11-29 11:57:46,217] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:57:46,233] {logging_mixin.py:109} INFO - [2022-11-29 11:57:46,233] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T02:57:46.233098+00:00
+[2022-11-29 11:57:46,304] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.175 seconds
+[2022-11-29 12:00:12,586] {processor.py:163} INFO - Started process (PID=55974) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:00:12,587] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:00:12,588] {logging_mixin.py:109} INFO - [2022-11-29 12:00:12,588] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:00:12,645] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:00:12,676] {logging_mixin.py:109} INFO - [2022-11-29 12:00:12,676] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:00:12,690] {logging_mixin.py:109} INFO - [2022-11-29 12:00:12,689] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:00:12.689840+00:00
+[2022-11-29 12:00:12,709] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.124 seconds
+[2022-11-29 12:02:14,787] {processor.py:163} INFO - Started process (PID=56137) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:02:14,787] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:02:14,788] {logging_mixin.py:109} INFO - [2022-11-29 12:02:14,788] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:02:14,834] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:02:14,862] {logging_mixin.py:109} INFO - [2022-11-29 12:02:14,862] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:02:14,877] {logging_mixin.py:109} INFO - [2022-11-29 12:02:14,876] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:02:14.876820+00:00
+[2022-11-29 12:02:14,893] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.107 seconds
+[2022-11-29 12:04:18,380] {processor.py:163} INFO - Started process (PID=56318) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:04:18,383] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:04:18,383] {logging_mixin.py:109} INFO - [2022-11-29 12:04:18,383] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:04:18,428] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:04:18,461] {logging_mixin.py:109} INFO - [2022-11-29 12:04:18,461] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:04:18,479] {logging_mixin.py:109} INFO - [2022-11-29 12:04:18,479] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:04:18.479147+00:00
+[2022-11-29 12:04:18,491] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.112 seconds
+[2022-11-29 12:06:15,901] {processor.py:163} INFO - Started process (PID=56488) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:06:15,901] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:06:15,901] {logging_mixin.py:109} INFO - [2022-11-29 12:06:15,901] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:06:15,957] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:06:15,990] {logging_mixin.py:109} INFO - [2022-11-29 12:06:15,990] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:06:16,006] {logging_mixin.py:109} INFO - [2022-11-29 12:06:16,006] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:06:16.005762+00:00
+[2022-11-29 12:06:16,020] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.120 seconds
+[2022-11-29 12:08:12,036] {processor.py:163} INFO - Started process (PID=56648) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:08:12,036] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:08:12,037] {logging_mixin.py:109} INFO - [2022-11-29 12:08:12,036] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:08:12,079] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:08:12,110] {logging_mixin.py:109} INFO - [2022-11-29 12:08:12,110] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:08:12,124] {logging_mixin.py:109} INFO - [2022-11-29 12:08:12,124] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:08:12.124304+00:00
+[2022-11-29 12:08:12,136] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.100 seconds
+[2022-11-29 12:12:02,157] {processor.py:163} INFO - Started process (PID=56845) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:12:02,159] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:12:02,161] {logging_mixin.py:109} INFO - [2022-11-29 12:12:02,160] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:12:02,208] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:12:02,228] {logging_mixin.py:109} INFO - [2022-11-29 12:12:02,228] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:12:02,241] {logging_mixin.py:109} INFO - [2022-11-29 12:12:02,241] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:12:02.241721+00:00
+[2022-11-29 12:12:02,257] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.102 seconds
+[2022-11-29 12:14:16,544] {processor.py:163} INFO - Started process (PID=57040) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:14:16,583] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:14:16,584] {logging_mixin.py:109} INFO - [2022-11-29 12:14:16,584] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:14:16,629] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:14:16,647] {logging_mixin.py:109} INFO - [2022-11-29 12:14:16,647] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:14:16,656] {logging_mixin.py:109} INFO - [2022-11-29 12:14:16,656] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:14:16.656045+00:00
+[2022-11-29 12:14:16,668] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.125 seconds
+[2022-11-29 12:16:34,972] {processor.py:163} INFO - Started process (PID=57250) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:16:34,974] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:16:34,974] {logging_mixin.py:109} INFO - [2022-11-29 12:16:34,974] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:16:35,035] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:16:35,070] {logging_mixin.py:109} INFO - [2022-11-29 12:16:35,070] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:16:35,090] {logging_mixin.py:109} INFO - [2022-11-29 12:16:35,090] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:16:35.090166+00:00
+[2022-11-29 12:16:35,116] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.145 seconds
+[2022-11-29 12:18:38,488] {processor.py:163} INFO - Started process (PID=57425) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:18:38,489] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:18:38,490] {logging_mixin.py:109} INFO - [2022-11-29 12:18:38,490] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:18:38,571] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:18:38,599] {logging_mixin.py:109} INFO - [2022-11-29 12:18:38,599] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:18:38,612] {logging_mixin.py:109} INFO - [2022-11-29 12:18:38,611] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:18:38.611853+00:00
+[2022-11-29 12:18:38,628] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.141 seconds
+[2022-11-29 12:20:44,759] {processor.py:163} INFO - Started process (PID=57601) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:20:44,766] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:20:44,767] {logging_mixin.py:109} INFO - [2022-11-29 12:20:44,767] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:20:44,836] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:20:44,870] {logging_mixin.py:109} INFO - [2022-11-29 12:20:44,869] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:20:44,889] {logging_mixin.py:109} INFO - [2022-11-29 12:20:44,889] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:20:44.889557+00:00
+[2022-11-29 12:20:44,912] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.155 seconds
+[2022-11-29 12:22:45,747] {processor.py:163} INFO - Started process (PID=57765) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:22:45,753] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:22:45,753] {logging_mixin.py:109} INFO - [2022-11-29 12:22:45,753] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:22:45,807] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:22:45,827] {logging_mixin.py:109} INFO - [2022-11-29 12:22:45,827] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:22:45,845] {logging_mixin.py:109} INFO - [2022-11-29 12:22:45,845] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:22:45.843836+00:00
+[2022-11-29 12:22:45,860] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.115 seconds
+[2022-11-29 12:24:46,922] {processor.py:163} INFO - Started process (PID=57942) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:24:46,923] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:24:46,924] {logging_mixin.py:109} INFO - [2022-11-29 12:24:46,924] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:24:46,971] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:24:47,001] {logging_mixin.py:109} INFO - [2022-11-29 12:24:47,001] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:24:47,019] {logging_mixin.py:109} INFO - [2022-11-29 12:24:47,019] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:24:47.019049+00:00
+[2022-11-29 12:24:47,034] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.113 seconds
+[2022-11-29 12:27:01,324] {processor.py:163} INFO - Started process (PID=58135) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:27:01,326] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:27:01,327] {logging_mixin.py:109} INFO - [2022-11-29 12:27:01,326] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:27:01,405] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:27:01,431] {logging_mixin.py:109} INFO - [2022-11-29 12:27:01,430] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:27:01,444] {logging_mixin.py:109} INFO - [2022-11-29 12:27:01,444] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:27:01.444653+00:00
+[2022-11-29 12:27:01,457] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.134 seconds
+[2022-11-29 12:29:09,369] {processor.py:163} INFO - Started process (PID=58316) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:29:09,371] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:29:09,372] {logging_mixin.py:109} INFO - [2022-11-29 12:29:09,371] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:29:09,431] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:29:09,469] {logging_mixin.py:109} INFO - [2022-11-29 12:29:09,469] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:29:09,487] {logging_mixin.py:109} INFO - [2022-11-29 12:29:09,487] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:29:09.487579+00:00
+[2022-11-29 12:29:09,506] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.137 seconds
+[2022-11-29 12:31:10,610] {processor.py:163} INFO - Started process (PID=58490) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:31:10,611] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:31:10,611] {logging_mixin.py:109} INFO - [2022-11-29 12:31:10,611] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:31:10,661] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:31:10,692] {logging_mixin.py:109} INFO - [2022-11-29 12:31:10,692] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:31:10,708] {logging_mixin.py:109} INFO - [2022-11-29 12:31:10,708] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:31:10.707953+00:00
+[2022-11-29 12:31:10,727] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.117 seconds
+[2022-11-29 12:33:19,846] {processor.py:163} INFO - Started process (PID=58668) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:33:19,846] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:33:19,847] {logging_mixin.py:109} INFO - [2022-11-29 12:33:19,847] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:33:19,901] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:33:19,943] {logging_mixin.py:109} INFO - [2022-11-29 12:33:19,942] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:33:19,958] {logging_mixin.py:109} INFO - [2022-11-29 12:33:19,957] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:33:19.957784+00:00
+[2022-11-29 12:33:19,979] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.133 seconds
+[2022-11-29 12:35:32,733] {processor.py:163} INFO - Started process (PID=58867) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:35:32,740] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:35:32,740] {logging_mixin.py:109} INFO - [2022-11-29 12:35:32,740] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:35:32,805] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:35:32,835] {logging_mixin.py:109} INFO - [2022-11-29 12:35:32,834] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:35:32,847] {logging_mixin.py:109} INFO - [2022-11-29 12:35:32,847] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:35:32.847201+00:00
+[2022-11-29 12:35:32,861] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.129 seconds
+[2022-11-29 12:38:05,284] {processor.py:163} INFO - Started process (PID=59126) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:38:05,285] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:38:05,285] {logging_mixin.py:109} INFO - [2022-11-29 12:38:05,285] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:38:05,339] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:38:05,386] {logging_mixin.py:109} INFO - [2022-11-29 12:38:05,386] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:38:05,404] {logging_mixin.py:109} INFO - [2022-11-29 12:38:05,404] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:38:05.404086+00:00
+[2022-11-29 12:38:05,417] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.133 seconds
+[2022-11-29 12:40:38,573] {processor.py:163} INFO - Started process (PID=59358) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:40:38,574] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:40:38,575] {logging_mixin.py:109} INFO - [2022-11-29 12:40:38,575] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:40:38,626] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:40:38,689] {logging_mixin.py:109} INFO - [2022-11-29 12:40:38,689] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:40:38,698] {logging_mixin.py:109} INFO - [2022-11-29 12:40:38,698] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:40:38.698277+00:00
+[2022-11-29 12:40:38,704] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.131 seconds
+[2022-11-29 12:42:39,933] {processor.py:163} INFO - Started process (PID=59528) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:42:39,939] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:42:39,940] {logging_mixin.py:109} INFO - [2022-11-29 12:42:39,939] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:42:39,980] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:42:40,015] {logging_mixin.py:109} INFO - [2022-11-29 12:42:40,014] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:42:40,031] {logging_mixin.py:109} INFO - [2022-11-29 12:42:40,031] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:42:40.031616+00:00
+[2022-11-29 12:42:40,048] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.117 seconds
+[2022-11-29 12:44:41,248] {processor.py:163} INFO - Started process (PID=59699) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:44:41,249] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:44:41,250] {logging_mixin.py:109} INFO - [2022-11-29 12:44:41,250] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:44:41,318] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:44:41,348] {logging_mixin.py:109} INFO - [2022-11-29 12:44:41,348] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:44:41,357] {logging_mixin.py:109} INFO - [2022-11-29 12:44:41,357] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:44:41.357003+00:00
+[2022-11-29 12:44:41,366] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.123 seconds
+[2022-11-29 12:46:57,686] {processor.py:163} INFO - Started process (PID=59910) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:46:57,688] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:46:57,688] {logging_mixin.py:109} INFO - [2022-11-29 12:46:57,688] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:46:57,750] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:46:57,782] {logging_mixin.py:109} INFO - [2022-11-29 12:46:57,782] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:46:57,797] {logging_mixin.py:109} INFO - [2022-11-29 12:46:57,796] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:46:57.796855+00:00
+[2022-11-29 12:46:57,813] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.129 seconds
+[2022-11-29 12:49:06,733] {processor.py:163} INFO - Started process (PID=60088) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:49:06,735] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:49:06,736] {logging_mixin.py:109} INFO - [2022-11-29 12:49:06,736] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:49:06,791] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:49:06,820] {logging_mixin.py:109} INFO - [2022-11-29 12:49:06,820] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:49:06,837] {logging_mixin.py:109} INFO - [2022-11-29 12:49:06,834] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:49:06.834553+00:00
+[2022-11-29 12:49:06,849] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.116 seconds
+[2022-11-29 12:51:08,992] {processor.py:163} INFO - Started process (PID=60256) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:51:09,000] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:51:09,000] {logging_mixin.py:109} INFO - [2022-11-29 12:51:09,000] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:51:09,049] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:51:09,071] {logging_mixin.py:109} INFO - [2022-11-29 12:51:09,071] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:51:09,081] {logging_mixin.py:109} INFO - [2022-11-29 12:51:09,081] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:51:09.080911+00:00
+[2022-11-29 12:51:09,091] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.100 seconds
+[2022-11-29 12:53:23,907] {processor.py:163} INFO - Started process (PID=60457) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:53:23,913] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:53:23,914] {logging_mixin.py:109} INFO - [2022-11-29 12:53:23,914] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:53:23,962] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:53:23,999] {logging_mixin.py:109} INFO - [2022-11-29 12:53:23,998] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:53:24,018] {logging_mixin.py:109} INFO - [2022-11-29 12:53:24,018] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:53:24.018701+00:00
+[2022-11-29 12:53:24,036] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.129 seconds
+[2022-11-29 12:55:52,959] {processor.py:163} INFO - Started process (PID=60656) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:55:52,960] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:55:52,961] {logging_mixin.py:109} INFO - [2022-11-29 12:55:52,960] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:55:53,037] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:55:53,079] {logging_mixin.py:109} INFO - [2022-11-29 12:55:53,078] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:55:53,097] {logging_mixin.py:109} INFO - [2022-11-29 12:55:53,096] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:55:53.096767+00:00
+[2022-11-29 12:55:53,106] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.147 seconds
+[2022-11-29 12:57:58,382] {processor.py:163} INFO - Started process (PID=60828) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:57:58,385] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:57:58,385] {logging_mixin.py:109} INFO - [2022-11-29 12:57:58,385] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:57:58,430] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:57:58,455] {logging_mixin.py:109} INFO - [2022-11-29 12:57:58,455] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:57:58,466] {logging_mixin.py:109} INFO - [2022-11-29 12:57:58,465] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:57:58.465788+00:00
+[2022-11-29 12:57:58,475] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.093 seconds
+[2022-11-29 12:59:58,164] {processor.py:163} INFO - Started process (PID=60990) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:59:58,171] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 12:59:58,171] {logging_mixin.py:109} INFO - [2022-11-29 12:59:58,171] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:59:58,221] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 12:59:58,253] {logging_mixin.py:109} INFO - [2022-11-29 12:59:58,252] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:59:58,270] {logging_mixin.py:109} INFO - [2022-11-29 12:59:58,270] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T03:59:58.270666+00:00
+[2022-11-29 12:59:58,288] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.124 seconds
+[2022-11-29 13:02:09,382] {processor.py:163} INFO - Started process (PID=61185) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:02:09,388] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:02:09,389] {logging_mixin.py:109} INFO - [2022-11-29 13:02:09,389] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:02:09,455] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:02:09,503] {logging_mixin.py:109} INFO - [2022-11-29 13:02:09,503] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:02:09,523] {logging_mixin.py:109} INFO - [2022-11-29 13:02:09,523] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:02:09.523540+00:00
+[2022-11-29 13:02:09,548] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.166 seconds
+[2022-11-29 13:04:12,622] {processor.py:163} INFO - Started process (PID=61360) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:04:12,624] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:04:12,624] {logging_mixin.py:109} INFO - [2022-11-29 13:04:12,624] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:04:12,665] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:04:12,685] {logging_mixin.py:109} INFO - [2022-11-29 13:04:12,685] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:04:12,696] {logging_mixin.py:109} INFO - [2022-11-29 13:04:12,696] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:04:12.696261+00:00
+[2022-11-29 13:04:12,710] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.089 seconds
+[2022-11-29 13:36:37,019] {processor.py:163} INFO - Started process (PID=61572) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:36:37,020] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:36:37,020] {logging_mixin.py:109} INFO - [2022-11-29 13:36:37,020] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:36:37,071] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:36:37,103] {logging_mixin.py:109} INFO - [2022-11-29 13:36:37,103] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:36:37,120] {logging_mixin.py:109} INFO - [2022-11-29 13:36:37,120] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:36:37.120621+00:00
+[2022-11-29 13:36:37,136] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.117 seconds
+[2022-11-29 13:38:50,537] {processor.py:163} INFO - Started process (PID=61781) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:38:50,539] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:38:50,540] {logging_mixin.py:109} INFO - [2022-11-29 13:38:50,540] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:38:50,585] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:38:50,625] {logging_mixin.py:109} INFO - [2022-11-29 13:38:50,625] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:38:50,639] {logging_mixin.py:109} INFO - [2022-11-29 13:38:50,639] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:38:50.639325+00:00
+[2022-11-29 13:38:50,655] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.118 seconds
+[2022-11-29 13:41:02,339] {processor.py:163} INFO - Started process (PID=61972) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:41:02,341] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:41:02,341] {logging_mixin.py:109} INFO - [2022-11-29 13:41:02,341] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:41:02,401] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:41:02,421] {logging_mixin.py:109} INFO - [2022-11-29 13:41:02,421] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:41:02,431] {logging_mixin.py:109} INFO - [2022-11-29 13:41:02,431] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:41:02.431090+00:00
+[2022-11-29 13:41:02,445] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.108 seconds
+[2022-11-29 13:43:02,696] {processor.py:163} INFO - Started process (PID=62136) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:43:02,702] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:43:02,702] {logging_mixin.py:109} INFO - [2022-11-29 13:43:02,702] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:43:02,733] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:43:02,752] {logging_mixin.py:109} INFO - [2022-11-29 13:43:02,752] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:43:02,762] {logging_mixin.py:109} INFO - [2022-11-29 13:43:02,762] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:43:02.762080+00:00
+[2022-11-29 13:43:02,770] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2022-11-29 13:44:57,063] {processor.py:163} INFO - Started process (PID=62292) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:44:57,065] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:44:57,065] {logging_mixin.py:109} INFO - [2022-11-29 13:44:57,065] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:44:57,101] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:44:57,141] {logging_mixin.py:109} INFO - [2022-11-29 13:44:57,139] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:44:57,171] {logging_mixin.py:109} INFO - [2022-11-29 13:44:57,171] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:44:57.171163+00:00
+[2022-11-29 13:44:57,180] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.118 seconds
+[2022-11-29 13:46:49,214] {processor.py:163} INFO - Started process (PID=62454) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:46:49,215] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:46:49,215] {logging_mixin.py:109} INFO - [2022-11-29 13:46:49,215] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:46:49,288] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:46:49,334] {logging_mixin.py:109} INFO - [2022-11-29 13:46:49,334] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:46:49,342] {logging_mixin.py:109} INFO - [2022-11-29 13:46:49,342] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:46:49.342028+00:00
+[2022-11-29 13:46:49,353] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.139 seconds
+[2022-11-29 13:48:43,036] {processor.py:163} INFO - Started process (PID=62610) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:48:43,036] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:48:43,037] {logging_mixin.py:109} INFO - [2022-11-29 13:48:43,037] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:48:43,094] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:48:43,124] {logging_mixin.py:109} INFO - [2022-11-29 13:48:43,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:48:43,132] {logging_mixin.py:109} INFO - [2022-11-29 13:48:43,131] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:48:43.131800+00:00
+[2022-11-29 13:48:43,139] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.104 seconds
+[2022-11-29 13:50:39,652] {processor.py:163} INFO - Started process (PID=62770) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:50:39,658] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:50:39,659] {logging_mixin.py:109} INFO - [2022-11-29 13:50:39,659] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:50:39,717] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:50:39,749] {logging_mixin.py:109} INFO - [2022-11-29 13:50:39,748] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:50:39,760] {logging_mixin.py:109} INFO - [2022-11-29 13:50:39,760] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:50:39.759996+00:00
+[2022-11-29 13:50:39,770] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.119 seconds
+[2022-11-29 13:52:35,852] {processor.py:163} INFO - Started process (PID=62927) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:52:35,858] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:52:35,858] {logging_mixin.py:109} INFO - [2022-11-29 13:52:35,858] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:52:35,918] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:52:35,950] {logging_mixin.py:109} INFO - [2022-11-29 13:52:35,950] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:52:35,965] {logging_mixin.py:109} INFO - [2022-11-29 13:52:35,965] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:52:35.964868+00:00
+[2022-11-29 13:52:35,982] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.130 seconds
+[2022-11-29 13:54:29,589] {processor.py:163} INFO - Started process (PID=63084) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:54:29,590] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:54:29,591] {logging_mixin.py:109} INFO - [2022-11-29 13:54:29,591] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:54:29,643] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:54:29,679] {logging_mixin.py:109} INFO - [2022-11-29 13:54:29,678] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:54:29,686] {logging_mixin.py:109} INFO - [2022-11-29 13:54:29,686] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:54:29.686776+00:00
+[2022-11-29 13:54:29,698] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.109 seconds
+[2022-11-29 13:56:29,240] {processor.py:163} INFO - Started process (PID=63251) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:56:29,241] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:56:29,241] {logging_mixin.py:109} INFO - [2022-11-29 13:56:29,241] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:56:29,299] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:56:29,326] {logging_mixin.py:109} INFO - [2022-11-29 13:56:29,326] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:56:29,341] {logging_mixin.py:109} INFO - [2022-11-29 13:56:29,341] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:56:29.341502+00:00
+[2022-11-29 13:56:29,358] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.118 seconds
+[2022-11-29 13:58:21,316] {processor.py:163} INFO - Started process (PID=63412) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:58:21,316] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 13:58:21,317] {logging_mixin.py:109} INFO - [2022-11-29 13:58:21,317] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:58:21,366] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 13:58:21,401] {logging_mixin.py:109} INFO - [2022-11-29 13:58:21,401] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:58:21,416] {logging_mixin.py:109} INFO - [2022-11-29 13:58:21,416] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T04:58:21.416558+00:00
+[2022-11-29 13:58:21,435] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.120 seconds
+[2022-11-29 14:00:36,904] {processor.py:163} INFO - Started process (PID=63608) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:00:36,904] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:00:36,904] {logging_mixin.py:109} INFO - [2022-11-29 14:00:36,904] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:00:36,963] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:00:36,994] {logging_mixin.py:109} INFO - [2022-11-29 14:00:36,994] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:00:37,006] {logging_mixin.py:109} INFO - [2022-11-29 14:00:37,006] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:00:37.006437+00:00
+[2022-11-29 14:00:37,025] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.121 seconds
+[2022-11-29 14:02:32,787] {processor.py:163} INFO - Started process (PID=63767) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:02:32,789] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:02:32,790] {logging_mixin.py:109} INFO - [2022-11-29 14:02:32,790] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:02:32,827] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:02:32,856] {logging_mixin.py:109} INFO - [2022-11-29 14:02:32,855] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:02:32,870] {logging_mixin.py:109} INFO - [2022-11-29 14:02:32,870] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:02:32.870433+00:00
+[2022-11-29 14:02:32,881] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.095 seconds
+[2022-11-29 14:04:25,377] {processor.py:163} INFO - Started process (PID=63929) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:04:25,379] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:04:25,381] {logging_mixin.py:109} INFO - [2022-11-29 14:04:25,380] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:04:25,472] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:04:25,516] {logging_mixin.py:109} INFO - [2022-11-29 14:04:25,516] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:04:25,545] {logging_mixin.py:109} INFO - [2022-11-29 14:04:25,545] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:04:25.544902+00:00
+[2022-11-29 14:04:25,571] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.195 seconds
+[2022-11-29 14:06:18,240] {processor.py:163} INFO - Started process (PID=64085) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:06:18,241] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:06:18,241] {logging_mixin.py:109} INFO - [2022-11-29 14:06:18,241] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:06:18,301] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:06:18,330] {logging_mixin.py:109} INFO - [2022-11-29 14:06:18,330] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:06:18,345] {logging_mixin.py:109} INFO - [2022-11-29 14:06:18,345] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:06:18.344945+00:00
+[2022-11-29 14:06:18,359] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.121 seconds
+[2022-11-29 14:08:08,574] {processor.py:163} INFO - Started process (PID=64238) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:08:08,574] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:08:08,575] {logging_mixin.py:109} INFO - [2022-11-29 14:08:08,575] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:08:08,633] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:08:08,656] {logging_mixin.py:109} INFO - [2022-11-29 14:08:08,656] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:08:08,664] {logging_mixin.py:109} INFO - [2022-11-29 14:08:08,664] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:08:08.664525+00:00
+[2022-11-29 14:08:08,679] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.105 seconds
+[2022-11-29 14:10:06,588] {processor.py:163} INFO - Started process (PID=64401) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:10:06,595] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:10:06,596] {logging_mixin.py:109} INFO - [2022-11-29 14:10:06,596] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:10:06,660] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:10:06,693] {logging_mixin.py:109} INFO - [2022-11-29 14:10:06,693] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:10:06,706] {logging_mixin.py:109} INFO - [2022-11-29 14:10:06,706] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:10:06.706237+00:00
+[2022-11-29 14:10:06,720] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.133 seconds
+[2022-11-29 14:11:59,588] {processor.py:163} INFO - Started process (PID=64558) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:11:59,590] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:11:59,590] {logging_mixin.py:109} INFO - [2022-11-29 14:11:59,590] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:11:59,628] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:11:59,647] {logging_mixin.py:109} INFO - [2022-11-29 14:11:59,647] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:11:59,657] {logging_mixin.py:109} INFO - [2022-11-29 14:11:59,657] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:11:59.656868+00:00
+[2022-11-29 14:11:59,669] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.083 seconds
+[2022-11-29 14:13:53,488] {processor.py:163} INFO - Started process (PID=64716) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:13:53,488] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:13:53,488] {logging_mixin.py:109} INFO - [2022-11-29 14:13:53,488] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:13:53,529] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:13:53,551] {logging_mixin.py:109} INFO - [2022-11-29 14:13:53,550] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:13:53,560] {logging_mixin.py:109} INFO - [2022-11-29 14:13:53,560] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:13:53.559922+00:00
+[2022-11-29 14:13:53,581] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.095 seconds
+[2022-11-29 14:15:44,646] {processor.py:163} INFO - Started process (PID=64871) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:15:44,646] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:15:44,647] {logging_mixin.py:109} INFO - [2022-11-29 14:15:44,647] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:15:44,686] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:15:44,704] {logging_mixin.py:109} INFO - [2022-11-29 14:15:44,704] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:15:44,713] {logging_mixin.py:109} INFO - [2022-11-29 14:15:44,713] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:15:44.713081+00:00
+[2022-11-29 14:15:44,725] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.080 seconds
+[2022-11-29 14:17:39,474] {processor.py:163} INFO - Started process (PID=65030) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:17:39,480] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:17:39,481] {logging_mixin.py:109} INFO - [2022-11-29 14:17:39,481] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:17:39,544] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:17:39,581] {logging_mixin.py:109} INFO - [2022-11-29 14:17:39,580] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:17:39,596] {logging_mixin.py:109} INFO - [2022-11-29 14:17:39,596] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:17:39.596211+00:00
+[2022-11-29 14:17:39,616] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.143 seconds
+[2022-11-29 14:19:32,448] {processor.py:163} INFO - Started process (PID=65186) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:19:32,454] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:19:32,454] {logging_mixin.py:109} INFO - [2022-11-29 14:19:32,454] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:19:32,487] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:19:32,507] {logging_mixin.py:109} INFO - [2022-11-29 14:19:32,507] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:19:32,518] {logging_mixin.py:109} INFO - [2022-11-29 14:19:32,518] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:19:32.518770+00:00
+[2022-11-29 14:19:32,525] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.078 seconds
+[2022-11-29 14:21:27,138] {processor.py:163} INFO - Started process (PID=65343) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:21:27,144] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:21:27,145] {logging_mixin.py:109} INFO - [2022-11-29 14:21:27,145] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:21:27,187] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:21:27,204] {logging_mixin.py:109} INFO - [2022-11-29 14:21:27,204] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:21:27,216] {logging_mixin.py:109} INFO - [2022-11-29 14:21:27,216] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:21:27.214910+00:00
+[2022-11-29 14:21:27,228] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.090 seconds
+[2022-11-29 14:23:23,318] {processor.py:163} INFO - Started process (PID=65505) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:23:23,322] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:23:23,322] {logging_mixin.py:109} INFO - [2022-11-29 14:23:23,322] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:23:23,357] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:23:23,388] {logging_mixin.py:109} INFO - [2022-11-29 14:23:23,387] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:23:23,401] {logging_mixin.py:109} INFO - [2022-11-29 14:23:23,400] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:23:23.400021+00:00
+[2022-11-29 14:23:23,414] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.097 seconds
+[2022-11-29 14:25:19,645] {processor.py:163} INFO - Started process (PID=65667) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:25:19,646] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:25:19,646] {logging_mixin.py:109} INFO - [2022-11-29 14:25:19,646] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:25:19,704] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:25:19,734] {logging_mixin.py:109} INFO - [2022-11-29 14:25:19,733] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:25:19,749] {logging_mixin.py:109} INFO - [2022-11-29 14:25:19,749] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:25:19.748918+00:00
+[2022-11-29 14:25:19,765] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.121 seconds
+[2022-11-29 14:27:42,358] {processor.py:163} INFO - Started process (PID=65886) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:27:42,364] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:27:42,366] {logging_mixin.py:109} INFO - [2022-11-29 14:27:42,365] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:27:42,436] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:27:42,478] {logging_mixin.py:109} INFO - [2022-11-29 14:27:42,477] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:27:42,500] {logging_mixin.py:109} INFO - [2022-11-29 14:27:42,500] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:27:42.499645+00:00
+[2022-11-29 14:27:42,519] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.162 seconds
+[2022-11-29 14:29:49,506] {processor.py:163} INFO - Started process (PID=66056) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:29:49,511] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:29:49,512] {logging_mixin.py:109} INFO - [2022-11-29 14:29:49,512] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:29:49,573] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:29:49,603] {logging_mixin.py:109} INFO - [2022-11-29 14:29:49,603] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:29:49,614] {logging_mixin.py:109} INFO - [2022-11-29 14:29:49,614] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:29:49.614384+00:00
+[2022-11-29 14:29:49,626] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.122 seconds
+[2022-11-29 14:32:06,335] {processor.py:163} INFO - Started process (PID=66251) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:32:06,342] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:32:06,343] {logging_mixin.py:109} INFO - [2022-11-29 14:32:06,342] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:32:06,395] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:32:06,423] {logging_mixin.py:109} INFO - [2022-11-29 14:32:06,422] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:32:06,437] {logging_mixin.py:109} INFO - [2022-11-29 14:32:06,437] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:32:06.437472+00:00
+[2022-11-29 14:32:06,456] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.122 seconds
+[2022-11-29 14:36:50,393] {processor.py:163} INFO - Started process (PID=66491) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:36:50,396] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-11-29 14:36:50,396] {logging_mixin.py:109} INFO - [2022-11-29 14:36:50,396] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:36:50,475] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-11-29 14:36:50,504] {logging_mixin.py:109} INFO - [2022-11-29 14:36:50,504] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:36:50,512] {logging_mixin.py:109} INFO - [2022-11-29 14:36:50,512] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-11-28T05:36:50.512264+00:00
+[2022-11-29 14:36:50,523] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.131 seconds

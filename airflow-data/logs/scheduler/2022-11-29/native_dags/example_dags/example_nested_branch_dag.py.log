@@ -1,0 +1,819 @@
+[2022-11-29 10:20:18,104] {processor.py:163} INFO - Started process (PID=43746) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:20:18,105] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:20:18,105] {logging_mixin.py:109} INFO - [2022-11-29 10:20:18,105] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:20:18,154] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:20:18,169] {logging_mixin.py:109} INFO - [2022-11-29 10:20:18,169] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:20:18,178] {logging_mixin.py:109} INFO - [2022-11-29 10:20:18,178] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:20:18,187] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.083 seconds
+[2022-11-29 10:21:37,041] {processor.py:163} INFO - Started process (PID=43931) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:21:37,047] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:21:37,048] {logging_mixin.py:109} INFO - [2022-11-29 10:21:37,047] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:21:37,091] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:21:37,106] {logging_mixin.py:109} INFO - [2022-11-29 10:21:37,106] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:21:37,115] {logging_mixin.py:109} INFO - [2022-11-29 10:21:37,115] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:21:37,124] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.084 seconds
+[2022-11-29 10:23:20,269] {processor.py:163} INFO - Started process (PID=44114) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:23:20,271] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:23:20,272] {logging_mixin.py:109} INFO - [2022-11-29 10:23:20,272] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:23:20,365] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:23:20,392] {logging_mixin.py:109} INFO - [2022-11-29 10:23:20,392] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:23:20,405] {logging_mixin.py:109} INFO - [2022-11-29 10:23:20,405] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:23:20,414] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.145 seconds
+[2022-11-29 10:26:37,050] {processor.py:163} INFO - Started process (PID=44306) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:26:37,051] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:26:37,052] {logging_mixin.py:109} INFO - [2022-11-29 10:26:37,052] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:26:37,095] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:26:37,111] {logging_mixin.py:109} INFO - [2022-11-29 10:26:37,111] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:26:37,119] {logging_mixin.py:109} INFO - [2022-11-29 10:26:37,119] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:26:37,127] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2022-11-29 10:28:09,495] {processor.py:163} INFO - Started process (PID=44529) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:28:09,501] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:28:09,502] {logging_mixin.py:109} INFO - [2022-11-29 10:28:09,502] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:28:09,544] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:28:09,560] {logging_mixin.py:109} INFO - [2022-11-29 10:28:09,560] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:28:09,570] {logging_mixin.py:109} INFO - [2022-11-29 10:28:09,570] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:28:09,576] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.082 seconds
+[2022-11-29 10:29:26,624] {processor.py:163} INFO - Started process (PID=45994) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:29:26,625] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:29:26,625] {logging_mixin.py:109} INFO - [2022-11-29 10:29:26,625] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:29:26,666] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:29:26,683] {logging_mixin.py:109} INFO - [2022-11-29 10:29:26,682] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:29:26,693] {logging_mixin.py:109} INFO - [2022-11-29 10:29:26,693] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:29:26,702] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2022-11-29 10:31:23,727] {processor.py:163} INFO - Started process (PID=47708) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:31:23,728] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:31:23,729] {logging_mixin.py:109} INFO - [2022-11-29 10:31:23,729] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:31:23,770] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:31:23,786] {logging_mixin.py:109} INFO - [2022-11-29 10:31:23,786] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:31:23,796] {logging_mixin.py:109} INFO - [2022-11-29 10:31:23,795] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:31:23,802] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.075 seconds
+[2022-11-29 10:32:38,025] {processor.py:163} INFO - Started process (PID=47835) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:32:38,031] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:32:38,032] {logging_mixin.py:109} INFO - [2022-11-29 10:32:38,032] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:32:38,076] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:32:38,091] {logging_mixin.py:109} INFO - [2022-11-29 10:32:38,091] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:32:38,100] {logging_mixin.py:109} INFO - [2022-11-29 10:32:38,100] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:32:38,109] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.084 seconds
+[2022-11-29 10:33:52,097] {processor.py:163} INFO - Started process (PID=48628) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:33:52,098] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:33:52,098] {logging_mixin.py:109} INFO - [2022-11-29 10:33:52,098] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:33:52,141] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:33:52,157] {logging_mixin.py:109} INFO - [2022-11-29 10:33:52,156] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:33:52,165] {logging_mixin.py:109} INFO - [2022-11-29 10:33:52,165] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:33:52,173] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2022-11-29 10:35:08,515] {processor.py:163} INFO - Started process (PID=48756) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:35:08,516] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:35:08,517] {logging_mixin.py:109} INFO - [2022-11-29 10:35:08,517] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:35:08,618] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:35:08,639] {logging_mixin.py:109} INFO - [2022-11-29 10:35:08,639] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:35:08,649] {logging_mixin.py:109} INFO - [2022-11-29 10:35:08,649] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:35:08,686] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.171 seconds
+[2022-11-29 10:36:27,264] {processor.py:163} INFO - Started process (PID=48894) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:36:27,270] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:36:27,271] {logging_mixin.py:109} INFO - [2022-11-29 10:36:27,271] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:36:27,315] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:36:27,331] {logging_mixin.py:109} INFO - [2022-11-29 10:36:27,331] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:36:27,340] {logging_mixin.py:109} INFO - [2022-11-29 10:36:27,340] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:36:27,348] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.084 seconds
+[2022-11-29 10:37:43,280] {processor.py:163} INFO - Started process (PID=49019) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:37:43,281] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:37:43,281] {logging_mixin.py:109} INFO - [2022-11-29 10:37:43,281] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:37:43,320] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:37:43,335] {logging_mixin.py:109} INFO - [2022-11-29 10:37:43,335] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:37:43,344] {logging_mixin.py:109} INFO - [2022-11-29 10:37:43,344] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:37:43,357] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2022-11-29 10:38:54,682] {processor.py:163} INFO - Started process (PID=49141) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:38:54,683] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:38:54,683] {logging_mixin.py:109} INFO - [2022-11-29 10:38:54,683] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:38:54,735] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:38:54,751] {logging_mixin.py:109} INFO - [2022-11-29 10:38:54,751] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:38:54,760] {logging_mixin.py:109} INFO - [2022-11-29 10:38:54,759] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:38:54,768] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.086 seconds
+[2022-11-29 10:40:11,628] {processor.py:163} INFO - Started process (PID=49366) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:40:11,631] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:40:11,631] {logging_mixin.py:109} INFO - [2022-11-29 10:40:11,631] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:40:11,673] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:40:11,688] {logging_mixin.py:109} INFO - [2022-11-29 10:40:11,688] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:40:11,697] {logging_mixin.py:109} INFO - [2022-11-29 10:40:11,697] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:40:11,704] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2022-11-29 10:41:23,922] {processor.py:163} INFO - Started process (PID=49499) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:41:23,922] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:41:23,922] {logging_mixin.py:109} INFO - [2022-11-29 10:41:23,922] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:41:23,962] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:41:23,977] {logging_mixin.py:109} INFO - [2022-11-29 10:41:23,977] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:41:23,985] {logging_mixin.py:109} INFO - [2022-11-29 10:41:23,985] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:41:23,998] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2022-11-29 10:42:37,105] {processor.py:163} INFO - Started process (PID=49621) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:42:37,105] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:42:37,105] {logging_mixin.py:109} INFO - [2022-11-29 10:42:37,105] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:42:37,144] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:42:37,160] {logging_mixin.py:109} INFO - [2022-11-29 10:42:37,160] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:42:37,169] {logging_mixin.py:109} INFO - [2022-11-29 10:42:37,169] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:42:37,182] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2022-11-29 10:43:52,741] {processor.py:163} INFO - Started process (PID=49748) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:43:52,742] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:43:52,742] {logging_mixin.py:109} INFO - [2022-11-29 10:43:52,742] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:43:52,783] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:43:52,799] {logging_mixin.py:109} INFO - [2022-11-29 10:43:52,798] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:43:52,807] {logging_mixin.py:109} INFO - [2022-11-29 10:43:52,807] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:43:52,816] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.075 seconds
+[2022-11-29 10:45:10,763] {processor.py:163} INFO - Started process (PID=49873) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:45:10,764] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:45:10,764] {logging_mixin.py:109} INFO - [2022-11-29 10:45:10,764] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:45:10,805] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:45:10,820] {logging_mixin.py:109} INFO - [2022-11-29 10:45:10,820] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:45:10,829] {logging_mixin.py:109} INFO - [2022-11-29 10:45:10,829] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:45:10,840] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2022-11-29 10:46:29,450] {processor.py:163} INFO - Started process (PID=50004) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:46:29,451] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:46:29,452] {logging_mixin.py:109} INFO - [2022-11-29 10:46:29,451] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:46:29,495] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:46:29,510] {logging_mixin.py:109} INFO - [2022-11-29 10:46:29,510] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:46:29,520] {logging_mixin.py:109} INFO - [2022-11-29 10:46:29,520] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:46:29,529] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.079 seconds
+[2022-11-29 10:47:49,879] {processor.py:163} INFO - Started process (PID=50133) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:47:49,881] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:47:49,882] {logging_mixin.py:109} INFO - [2022-11-29 10:47:49,882] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:47:49,930] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:47:49,951] {logging_mixin.py:109} INFO - [2022-11-29 10:47:49,950] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:47:49,961] {logging_mixin.py:109} INFO - [2022-11-29 10:47:49,961] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:47:49,968] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.089 seconds
+[2022-11-29 10:49:10,019] {processor.py:163} INFO - Started process (PID=50265) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:49:10,020] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:49:10,020] {logging_mixin.py:109} INFO - [2022-11-29 10:49:10,020] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:49:10,063] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:49:10,079] {logging_mixin.py:109} INFO - [2022-11-29 10:49:10,079] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:49:10,088] {logging_mixin.py:109} INFO - [2022-11-29 10:49:10,088] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:49:10,096] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2022-11-29 10:50:30,531] {processor.py:163} INFO - Started process (PID=50396) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:50:30,538] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:50:30,539] {logging_mixin.py:109} INFO - [2022-11-29 10:50:30,539] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:50:30,585] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:50:30,603] {logging_mixin.py:109} INFO - [2022-11-29 10:50:30,603] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:50:30,613] {logging_mixin.py:109} INFO - [2022-11-29 10:50:30,612] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:50:30,622] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.091 seconds
+[2022-11-29 10:51:54,678] {processor.py:163} INFO - Started process (PID=50538) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:51:54,685] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:51:54,685] {logging_mixin.py:109} INFO - [2022-11-29 10:51:54,685] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:51:54,732] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:51:54,749] {logging_mixin.py:109} INFO - [2022-11-29 10:51:54,749] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:51:54,758] {logging_mixin.py:109} INFO - [2022-11-29 10:51:54,758] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:51:54,765] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.088 seconds
+[2022-11-29 10:53:10,179] {processor.py:163} INFO - Started process (PID=50666) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:53:10,185] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:53:10,186] {logging_mixin.py:109} INFO - [2022-11-29 10:53:10,185] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:53:10,228] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:53:10,243] {logging_mixin.py:109} INFO - [2022-11-29 10:53:10,243] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:53:10,251] {logging_mixin.py:109} INFO - [2022-11-29 10:53:10,251] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:53:10,261] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.082 seconds
+[2022-11-29 10:54:32,151] {processor.py:163} INFO - Started process (PID=50808) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:54:32,151] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:54:32,152] {logging_mixin.py:109} INFO - [2022-11-29 10:54:32,152] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:54:32,195] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:54:32,210] {logging_mixin.py:109} INFO - [2022-11-29 10:54:32,210] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:54:32,219] {logging_mixin.py:109} INFO - [2022-11-29 10:54:32,219] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:54:32,228] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2022-11-29 10:55:55,242] {processor.py:163} INFO - Started process (PID=50948) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:55:55,248] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:55:55,248] {logging_mixin.py:109} INFO - [2022-11-29 10:55:55,248] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:55:55,291] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:55:55,306] {logging_mixin.py:109} INFO - [2022-11-29 10:55:55,305] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:55:55,314] {logging_mixin.py:109} INFO - [2022-11-29 10:55:55,314] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:55:55,323] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.082 seconds
+[2022-11-29 10:57:11,044] {processor.py:163} INFO - Started process (PID=51079) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:57:11,045] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:57:11,045] {logging_mixin.py:109} INFO - [2022-11-29 10:57:11,045] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:57:11,094] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:57:11,111] {logging_mixin.py:109} INFO - [2022-11-29 10:57:11,111] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:57:11,120] {logging_mixin.py:109} INFO - [2022-11-29 10:57:11,119] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:57:11,126] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.083 seconds
+[2022-11-29 10:58:27,919] {processor.py:163} INFO - Started process (PID=51216) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:58:27,922] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 10:58:27,923] {logging_mixin.py:109} INFO - [2022-11-29 10:58:27,923] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:58:27,964] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 10:58:27,980] {logging_mixin.py:109} INFO - [2022-11-29 10:58:27,979] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 10:58:27,988] {logging_mixin.py:109} INFO - [2022-11-29 10:58:27,988] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 10:58:27,995] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2022-11-29 11:15:00,008] {processor.py:163} INFO - Started process (PID=51414) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:15:00,013] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:15:00,013] {logging_mixin.py:109} INFO - [2022-11-29 11:15:00,013] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:15:00,069] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:15:00,089] {logging_mixin.py:109} INFO - [2022-11-29 11:15:00,089] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:15:00,099] {logging_mixin.py:109} INFO - [2022-11-29 11:15:00,099] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:15:00,106] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.099 seconds
+[2022-11-29 11:16:20,148] {processor.py:163} INFO - Started process (PID=51562) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:16:20,148] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:16:20,149] {logging_mixin.py:109} INFO - [2022-11-29 11:16:20,149] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:16:20,189] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:16:20,204] {logging_mixin.py:109} INFO - [2022-11-29 11:16:20,204] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:16:20,212] {logging_mixin.py:109} INFO - [2022-11-29 11:16:20,212] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:16:20,223] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2022-11-29 11:17:40,313] {processor.py:163} INFO - Started process (PID=51704) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:17:40,316] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:17:40,316] {logging_mixin.py:109} INFO - [2022-11-29 11:17:40,316] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:17:40,358] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:17:40,373] {logging_mixin.py:109} INFO - [2022-11-29 11:17:40,373] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:17:40,381] {logging_mixin.py:109} INFO - [2022-11-29 11:17:40,381] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:17:40,390] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2022-11-29 11:19:03,162] {processor.py:163} INFO - Started process (PID=51838) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:19:03,163] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:19:03,163] {logging_mixin.py:109} INFO - [2022-11-29 11:19:03,163] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:19:03,216] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:19:03,236] {logging_mixin.py:109} INFO - [2022-11-29 11:19:03,236] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:19:03,246] {logging_mixin.py:109} INFO - [2022-11-29 11:19:03,246] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:19:03,257] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.095 seconds
+[2022-11-29 11:20:27,346] {processor.py:163} INFO - Started process (PID=51983) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:20:27,346] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:20:27,347] {logging_mixin.py:109} INFO - [2022-11-29 11:20:27,347] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:20:27,391] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:20:27,407] {logging_mixin.py:109} INFO - [2022-11-29 11:20:27,407] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:20:27,417] {logging_mixin.py:109} INFO - [2022-11-29 11:20:27,417] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:20:27,425] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.079 seconds
+[2022-11-29 11:21:53,253] {processor.py:163} INFO - Started process (PID=52132) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:21:53,259] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:21:53,260] {logging_mixin.py:109} INFO - [2022-11-29 11:21:53,260] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:21:53,308] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:21:53,325] {logging_mixin.py:109} INFO - [2022-11-29 11:21:53,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:21:53,335] {logging_mixin.py:109} INFO - [2022-11-29 11:21:53,334] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:21:53,341] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.089 seconds
+[2022-11-29 11:23:29,253] {processor.py:163} INFO - Started process (PID=52294) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:23:29,254] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:23:29,254] {logging_mixin.py:109} INFO - [2022-11-29 11:23:29,254] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:23:29,296] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:23:29,312] {logging_mixin.py:109} INFO - [2022-11-29 11:23:29,311] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:23:29,320] {logging_mixin.py:109} INFO - [2022-11-29 11:23:29,320] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:23:29,328] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.075 seconds
+[2022-11-29 11:24:49,437] {processor.py:163} INFO - Started process (PID=52449) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:24:49,443] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:24:49,443] {logging_mixin.py:109} INFO - [2022-11-29 11:24:49,443] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:24:49,496] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:24:49,523] {logging_mixin.py:109} INFO - [2022-11-29 11:24:49,522] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:24:49,533] {logging_mixin.py:109} INFO - [2022-11-29 11:24:49,533] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:24:49,543] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.107 seconds
+[2022-11-29 11:26:13,232] {processor.py:163} INFO - Started process (PID=52588) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:26:13,233] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:26:13,234] {logging_mixin.py:109} INFO - [2022-11-29 11:26:13,234] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:26:13,279] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:26:13,296] {logging_mixin.py:109} INFO - [2022-11-29 11:26:13,296] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:26:13,306] {logging_mixin.py:109} INFO - [2022-11-29 11:26:13,306] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:26:13,312] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.081 seconds
+[2022-11-29 11:27:43,016] {processor.py:163} INFO - Started process (PID=52742) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:27:43,022] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:27:43,022] {logging_mixin.py:109} INFO - [2022-11-29 11:27:43,022] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:27:43,069] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:27:43,084] {logging_mixin.py:109} INFO - [2022-11-29 11:27:43,084] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:27:43,093] {logging_mixin.py:109} INFO - [2022-11-29 11:27:43,093] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:27:43,103] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.087 seconds
+[2022-11-29 11:29:04,769] {processor.py:163} INFO - Started process (PID=52874) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:29:04,776] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:29:04,776] {logging_mixin.py:109} INFO - [2022-11-29 11:29:04,776] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:29:04,832] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:29:04,852] {logging_mixin.py:109} INFO - [2022-11-29 11:29:04,852] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:29:04,866] {logging_mixin.py:109} INFO - [2022-11-29 11:29:04,866] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:29:04,878] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.109 seconds
+[2022-11-29 11:30:23,951] {processor.py:163} INFO - Started process (PID=53011) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:30:23,957] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:30:23,957] {logging_mixin.py:109} INFO - [2022-11-29 11:30:23,957] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:30:24,002] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:30:24,018] {logging_mixin.py:109} INFO - [2022-11-29 11:30:24,018] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:30:24,034] {logging_mixin.py:109} INFO - [2022-11-29 11:30:24,034] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:30:24,039] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.089 seconds
+[2022-11-29 11:31:45,596] {processor.py:163} INFO - Started process (PID=53148) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:31:45,602] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:31:45,602] {logging_mixin.py:109} INFO - [2022-11-29 11:31:45,602] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:31:45,646] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:31:45,661] {logging_mixin.py:109} INFO - [2022-11-29 11:31:45,661] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:31:45,670] {logging_mixin.py:109} INFO - [2022-11-29 11:31:45,670] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:31:45,679] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.084 seconds
+[2022-11-29 11:33:11,462] {processor.py:163} INFO - Started process (PID=53286) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:33:11,469] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:33:11,469] {logging_mixin.py:109} INFO - [2022-11-29 11:33:11,469] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:33:11,521] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:33:11,539] {logging_mixin.py:109} INFO - [2022-11-29 11:33:11,539] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:33:11,549] {logging_mixin.py:109} INFO - [2022-11-29 11:33:11,549] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:33:11,561] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.099 seconds
+[2022-11-29 11:34:34,378] {processor.py:163} INFO - Started process (PID=53423) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:34:34,381] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:34:34,382] {logging_mixin.py:109} INFO - [2022-11-29 11:34:34,382] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:34:34,425] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:34:34,441] {logging_mixin.py:109} INFO - [2022-11-29 11:34:34,440] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:34:34,449] {logging_mixin.py:109} INFO - [2022-11-29 11:34:34,449] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:34:34,458] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.080 seconds
+[2022-11-29 11:35:55,952] {processor.py:163} INFO - Started process (PID=53575) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:35:55,958] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:35:55,959] {logging_mixin.py:109} INFO - [2022-11-29 11:35:55,958] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:35:56,004] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:35:56,021] {logging_mixin.py:109} INFO - [2022-11-29 11:35:56,021] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:35:56,031] {logging_mixin.py:109} INFO - [2022-11-29 11:35:56,031] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:35:56,040] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.088 seconds
+[2022-11-29 11:37:20,085] {processor.py:163} INFO - Started process (PID=53723) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:37:20,091] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:37:20,092] {logging_mixin.py:109} INFO - [2022-11-29 11:37:20,092] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:37:20,137] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:37:20,152] {logging_mixin.py:109} INFO - [2022-11-29 11:37:20,151] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:37:20,160] {logging_mixin.py:109} INFO - [2022-11-29 11:37:20,160] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:37:20,167] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.083 seconds
+[2022-11-29 11:38:35,699] {processor.py:163} INFO - Started process (PID=53848) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:38:35,700] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:38:35,701] {logging_mixin.py:109} INFO - [2022-11-29 11:38:35,701] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:38:35,747] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:38:35,766] {logging_mixin.py:109} INFO - [2022-11-29 11:38:35,766] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:38:35,779] {logging_mixin.py:109} INFO - [2022-11-29 11:38:35,779] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:38:35,794] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.095 seconds
+[2022-11-29 11:39:54,395] {processor.py:163} INFO - Started process (PID=53977) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:39:54,398] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:39:54,399] {logging_mixin.py:109} INFO - [2022-11-29 11:39:54,398] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:39:54,439] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:39:54,454] {logging_mixin.py:109} INFO - [2022-11-29 11:39:54,454] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:39:54,463] {logging_mixin.py:109} INFO - [2022-11-29 11:39:54,463] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:39:54,471] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2022-11-29 11:41:14,480] {processor.py:163} INFO - Started process (PID=54119) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:41:14,481] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:41:14,481] {logging_mixin.py:109} INFO - [2022-11-29 11:41:14,481] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:41:14,524] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:41:14,540] {logging_mixin.py:109} INFO - [2022-11-29 11:41:14,540] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:41:14,549] {logging_mixin.py:109} INFO - [2022-11-29 11:41:14,549] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:41:14,558] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.078 seconds
+[2022-11-29 11:42:36,796] {processor.py:163} INFO - Started process (PID=54306) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:42:36,798] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:42:36,799] {logging_mixin.py:109} INFO - [2022-11-29 11:42:36,799] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:42:36,840] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:42:36,855] {logging_mixin.py:109} INFO - [2022-11-29 11:42:36,855] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:42:36,865] {logging_mixin.py:109} INFO - [2022-11-29 11:42:36,865] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:42:36,872] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2022-11-29 11:43:56,841] {processor.py:163} INFO - Started process (PID=54495) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:43:56,841] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:43:56,842] {logging_mixin.py:109} INFO - [2022-11-29 11:43:56,842] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:43:56,886] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:43:56,902] {logging_mixin.py:109} INFO - [2022-11-29 11:43:56,902] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:43:56,911] {logging_mixin.py:109} INFO - [2022-11-29 11:43:56,911] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:43:56,920] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.079 seconds
+[2022-11-29 11:45:17,922] {processor.py:163} INFO - Started process (PID=54650) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:45:17,925] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:45:17,925] {logging_mixin.py:109} INFO - [2022-11-29 11:45:17,925] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:45:17,973] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:45:17,990] {logging_mixin.py:109} INFO - [2022-11-29 11:45:17,990] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:45:18,001] {logging_mixin.py:109} INFO - [2022-11-29 11:45:18,001] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:45:18,007] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.086 seconds
+[2022-11-29 11:46:35,663] {processor.py:163} INFO - Started process (PID=54781) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:46:35,663] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:46:35,664] {logging_mixin.py:109} INFO - [2022-11-29 11:46:35,664] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:46:35,708] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:46:35,724] {logging_mixin.py:109} INFO - [2022-11-29 11:46:35,723] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:46:35,732] {logging_mixin.py:109} INFO - [2022-11-29 11:46:35,732] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:46:35,738] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds
+[2022-11-29 11:48:03,505] {processor.py:163} INFO - Started process (PID=54927) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:48:03,506] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:48:03,506] {logging_mixin.py:109} INFO - [2022-11-29 11:48:03,506] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:48:03,550] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:48:03,566] {logging_mixin.py:109} INFO - [2022-11-29 11:48:03,566] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:48:03,580] {logging_mixin.py:109} INFO - [2022-11-29 11:48:03,580] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:48:03,586] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.081 seconds
+[2022-11-29 11:49:57,912] {processor.py:163} INFO - Started process (PID=55088) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:49:57,913] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:49:57,914] {logging_mixin.py:109} INFO - [2022-11-29 11:49:57,914] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:49:58,022] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:49:58,040] {logging_mixin.py:109} INFO - [2022-11-29 11:49:58,040] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:49:58,051] {logging_mixin.py:109} INFO - [2022-11-29 11:49:58,051] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:49:58,063] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.152 seconds
+[2022-11-29 11:51:56,169] {processor.py:163} INFO - Started process (PID=55249) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:51:56,175] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:51:56,176] {logging_mixin.py:109} INFO - [2022-11-29 11:51:56,176] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:51:56,238] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:51:56,262] {logging_mixin.py:109} INFO - [2022-11-29 11:51:56,261] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:51:56,272] {logging_mixin.py:109} INFO - [2022-11-29 11:51:56,272] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:51:56,281] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.112 seconds
+[2022-11-29 11:53:52,846] {processor.py:163} INFO - Started process (PID=55427) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:53:52,847] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:53:52,848] {logging_mixin.py:109} INFO - [2022-11-29 11:53:52,848] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:53:52,927] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:53:52,956] {logging_mixin.py:109} INFO - [2022-11-29 11:53:52,956] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:53:52,972] {logging_mixin.py:109} INFO - [2022-11-29 11:53:52,972] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:53:52,985] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.140 seconds
+[2022-11-29 11:55:48,359] {processor.py:163} INFO - Started process (PID=55587) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:55:48,360] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:55:48,361] {logging_mixin.py:109} INFO - [2022-11-29 11:55:48,361] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:55:48,447] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:55:48,488] {logging_mixin.py:109} INFO - [2022-11-29 11:55:48,488] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:55:48,509] {logging_mixin.py:109} INFO - [2022-11-29 11:55:48,509] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:55:48,523] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.166 seconds
+[2022-11-29 11:58:21,405] {processor.py:163} INFO - Started process (PID=55807) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:58:21,406] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 11:58:21,406] {logging_mixin.py:109} INFO - [2022-11-29 11:58:21,406] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:58:21,480] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 11:58:21,512] {logging_mixin.py:109} INFO - [2022-11-29 11:58:21,511] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 11:58:21,527] {logging_mixin.py:109} INFO - [2022-11-29 11:58:21,527] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 11:58:21,549] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.145 seconds
+[2022-11-29 12:00:42,444] {processor.py:163} INFO - Started process (PID=56014) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:00:42,449] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:00:42,450] {logging_mixin.py:109} INFO - [2022-11-29 12:00:42,450] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:00:42,560] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:00:42,599] {logging_mixin.py:109} INFO - [2022-11-29 12:00:42,599] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:00:42,617] {logging_mixin.py:109} INFO - [2022-11-29 12:00:42,617] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:00:42,630] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.186 seconds
+[2022-11-29 12:02:38,595] {processor.py:163} INFO - Started process (PID=56171) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:02:38,601] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:02:38,602] {logging_mixin.py:109} INFO - [2022-11-29 12:02:38,601] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:02:38,679] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:02:38,705] {logging_mixin.py:109} INFO - [2022-11-29 12:02:38,705] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:02:38,721] {logging_mixin.py:109} INFO - [2022-11-29 12:02:38,721] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:02:38,733] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.139 seconds
+[2022-11-29 12:04:46,728] {processor.py:163} INFO - Started process (PID=56359) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:04:46,728] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:04:46,729] {logging_mixin.py:109} INFO - [2022-11-29 12:04:46,728] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:04:46,796] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:04:46,822] {logging_mixin.py:109} INFO - [2022-11-29 12:04:46,822] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:04:46,839] {logging_mixin.py:109} INFO - [2022-11-29 12:04:46,839] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:04:46,853] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.125 seconds
+[2022-11-29 12:06:40,602] {processor.py:163} INFO - Started process (PID=56521) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:06:40,602] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:06:40,603] {logging_mixin.py:109} INFO - [2022-11-29 12:06:40,603] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:06:40,684] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:06:40,713] {logging_mixin.py:109} INFO - [2022-11-29 12:06:40,713] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:06:40,732] {logging_mixin.py:109} INFO - [2022-11-29 12:06:40,732] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:06:40,747] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.145 seconds
+[2022-11-29 12:08:35,935] {processor.py:163} INFO - Started process (PID=56680) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:08:35,935] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:08:35,935] {logging_mixin.py:109} INFO - [2022-11-29 12:08:35,935] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:08:36,017] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:08:36,037] {logging_mixin.py:109} INFO - [2022-11-29 12:08:36,036] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:08:36,046] {logging_mixin.py:109} INFO - [2022-11-29 12:08:36,046] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:08:36,062] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.129 seconds
+[2022-11-29 12:12:35,507] {processor.py:163} INFO - Started process (PID=56894) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:12:35,509] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:12:35,510] {logging_mixin.py:109} INFO - [2022-11-29 12:12:35,510] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:12:35,604] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:12:35,648] {logging_mixin.py:109} INFO - [2022-11-29 12:12:35,648] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:12:35,671] {logging_mixin.py:109} INFO - [2022-11-29 12:12:35,671] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:12:35,691] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.186 seconds
+[2022-11-29 12:14:41,590] {processor.py:163} INFO - Started process (PID=57074) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:14:41,591] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:14:41,592] {logging_mixin.py:109} INFO - [2022-11-29 12:14:41,591] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:14:41,697] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:14:41,730] {logging_mixin.py:109} INFO - [2022-11-29 12:14:41,730] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:14:41,750] {logging_mixin.py:109} INFO - [2022-11-29 12:14:41,749] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:14:41,763] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.174 seconds
+[2022-11-29 12:17:01,727] {processor.py:163} INFO - Started process (PID=57289) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:17:01,729] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:17:01,732] {logging_mixin.py:109} INFO - [2022-11-29 12:17:01,732] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:17:01,938] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:17:01,973] {logging_mixin.py:109} INFO - [2022-11-29 12:17:01,973] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:17:01,989] {logging_mixin.py:109} INFO - [2022-11-29 12:17:01,989] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:17:02,003] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.278 seconds
+[2022-11-29 12:19:04,941] {processor.py:163} INFO - Started process (PID=57461) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:19:04,941] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:19:04,943] {logging_mixin.py:109} INFO - [2022-11-29 12:19:04,943] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:19:05,033] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:19:05,071] {logging_mixin.py:109} INFO - [2022-11-29 12:19:05,070] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:19:05,094] {logging_mixin.py:109} INFO - [2022-11-29 12:19:05,094] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:19:05,109] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.169 seconds
+[2022-11-29 12:21:09,745] {processor.py:163} INFO - Started process (PID=57636) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:21:09,751] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:21:09,752] {logging_mixin.py:109} INFO - [2022-11-29 12:21:09,751] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:21:09,837] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:21:09,870] {logging_mixin.py:109} INFO - [2022-11-29 12:21:09,869] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:21:09,885] {logging_mixin.py:109} INFO - [2022-11-29 12:21:09,885] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:21:09,898] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.154 seconds
+[2022-11-29 12:23:14,140] {processor.py:163} INFO - Started process (PID=57813) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:23:14,146] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:23:14,147] {logging_mixin.py:109} INFO - [2022-11-29 12:23:14,147] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:23:14,205] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:23:14,234] {logging_mixin.py:109} INFO - [2022-11-29 12:23:14,233] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:23:14,248] {logging_mixin.py:109} INFO - [2022-11-29 12:23:14,248] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:23:14,262] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.122 seconds
+[2022-11-29 12:25:14,705] {processor.py:163} INFO - Started process (PID=57980) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:25:14,705] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:25:14,706] {logging_mixin.py:109} INFO - [2022-11-29 12:25:14,706] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:25:14,798] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:25:14,841] {logging_mixin.py:109} INFO - [2022-11-29 12:25:14,840] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:25:14,872] {logging_mixin.py:109} INFO - [2022-11-29 12:25:14,872] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:25:14,891] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.187 seconds
+[2022-11-29 12:27:26,373] {processor.py:163} INFO - Started process (PID=58169) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:27:26,380] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:27:26,380] {logging_mixin.py:109} INFO - [2022-11-29 12:27:26,380] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:27:26,432] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:27:26,449] {logging_mixin.py:109} INFO - [2022-11-29 12:27:26,449] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:27:26,464] {logging_mixin.py:109} INFO - [2022-11-29 12:27:26,464] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:27:26,479] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.108 seconds
+[2022-11-29 12:29:36,310] {processor.py:163} INFO - Started process (PID=58356) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:29:36,314] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:29:36,314] {logging_mixin.py:109} INFO - [2022-11-29 12:29:36,314] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:29:36,383] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:29:36,419] {logging_mixin.py:109} INFO - [2022-11-29 12:29:36,419] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:29:36,430] {logging_mixin.py:109} INFO - [2022-11-29 12:29:36,430] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:29:36,542] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.232 seconds
+[2022-11-29 12:31:34,614] {processor.py:163} INFO - Started process (PID=58522) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:31:34,615] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:31:34,615] {logging_mixin.py:109} INFO - [2022-11-29 12:31:34,615] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:31:34,701] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:31:34,722] {logging_mixin.py:109} INFO - [2022-11-29 12:31:34,722] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:31:34,737] {logging_mixin.py:109} INFO - [2022-11-29 12:31:34,737] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:31:34,753] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.139 seconds
+[2022-11-29 12:33:46,645] {processor.py:163} INFO - Started process (PID=58712) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:33:46,648] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:33:46,648] {logging_mixin.py:109} INFO - [2022-11-29 12:33:46,648] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:33:46,741] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:33:46,768] {logging_mixin.py:109} INFO - [2022-11-29 12:33:46,767] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:33:46,785] {logging_mixin.py:109} INFO - [2022-11-29 12:33:46,785] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:33:46,802] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.160 seconds
+[2022-11-29 12:35:58,965] {processor.py:163} INFO - Started process (PID=58905) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:35:58,972] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:35:58,972] {logging_mixin.py:109} INFO - [2022-11-29 12:35:58,972] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:35:59,068] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:35:59,104] {logging_mixin.py:109} INFO - [2022-11-29 12:35:59,104] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:35:59,125] {logging_mixin.py:109} INFO - [2022-11-29 12:35:59,125] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:35:59,145] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.181 seconds
+[2022-11-29 12:38:31,857] {processor.py:163} INFO - Started process (PID=59162) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:38:31,859] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:38:31,860] {logging_mixin.py:109} INFO - [2022-11-29 12:38:31,860] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:38:31,916] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:38:31,936] {logging_mixin.py:109} INFO - [2022-11-29 12:38:31,936] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:38:31,947] {logging_mixin.py:109} INFO - [2022-11-29 12:38:31,947] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:38:31,958] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.102 seconds
+[2022-11-29 12:41:03,947] {processor.py:163} INFO - Started process (PID=59393) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:41:03,948] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:41:03,948] {logging_mixin.py:109} INFO - [2022-11-29 12:41:03,948] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:41:03,999] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:41:04,018] {logging_mixin.py:109} INFO - [2022-11-29 12:41:04,018] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:41:04,038] {logging_mixin.py:109} INFO - [2022-11-29 12:41:04,038] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:41:04,055] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.108 seconds
+[2022-11-29 12:43:03,496] {processor.py:163} INFO - Started process (PID=59560) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:43:03,498] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:43:03,498] {logging_mixin.py:109} INFO - [2022-11-29 12:43:03,498] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:43:03,587] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:43:03,631] {logging_mixin.py:109} INFO - [2022-11-29 12:43:03,631] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:43:03,654] {logging_mixin.py:109} INFO - [2022-11-29 12:43:03,653] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:43:03,662] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.168 seconds
+[2022-11-29 12:45:08,180] {processor.py:163} INFO - Started process (PID=59735) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:45:08,187] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:45:08,188] {logging_mixin.py:109} INFO - [2022-11-29 12:45:08,188] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:45:08,256] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:45:08,293] {logging_mixin.py:109} INFO - [2022-11-29 12:45:08,293] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:45:08,311] {logging_mixin.py:109} INFO - [2022-11-29 12:45:08,311] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:45:08,324] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.145 seconds
+[2022-11-29 12:47:26,826] {processor.py:163} INFO - Started process (PID=59946) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:47:26,832] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:47:26,832] {logging_mixin.py:109} INFO - [2022-11-29 12:47:26,832] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:47:26,904] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:47:26,941] {logging_mixin.py:109} INFO - [2022-11-29 12:47:26,940] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:47:26,958] {logging_mixin.py:109} INFO - [2022-11-29 12:47:26,958] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:47:26,966] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.141 seconds
+[2022-11-29 12:49:34,338] {processor.py:163} INFO - Started process (PID=60122) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:49:34,339] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:49:34,339] {logging_mixin.py:109} INFO - [2022-11-29 12:49:34,339] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:49:34,400] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:49:34,441] {logging_mixin.py:109} INFO - [2022-11-29 12:49:34,440] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:49:34,457] {logging_mixin.py:109} INFO - [2022-11-29 12:49:34,456] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:49:34,469] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.132 seconds
+[2022-11-29 12:51:36,237] {processor.py:163} INFO - Started process (PID=60294) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:51:36,243] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:51:36,243] {logging_mixin.py:109} INFO - [2022-11-29 12:51:36,243] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:51:36,314] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:51:36,347] {logging_mixin.py:109} INFO - [2022-11-29 12:51:36,347] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:51:36,363] {logging_mixin.py:109} INFO - [2022-11-29 12:51:36,363] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:51:36,374] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.138 seconds
+[2022-11-29 12:53:49,475] {processor.py:163} INFO - Started process (PID=60491) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:53:49,478] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:53:49,479] {logging_mixin.py:109} INFO - [2022-11-29 12:53:49,479] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:53:49,569] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:53:49,604] {logging_mixin.py:109} INFO - [2022-11-29 12:53:49,604] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:53:49,620] {logging_mixin.py:109} INFO - [2022-11-29 12:53:49,620] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:53:49,636] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.161 seconds
+[2022-11-29 12:56:21,011] {processor.py:163} INFO - Started process (PID=60702) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:56:21,017] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:56:21,017] {logging_mixin.py:109} INFO - [2022-11-29 12:56:21,017] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:56:21,092] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:56:21,124] {logging_mixin.py:109} INFO - [2022-11-29 12:56:21,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:56:21,144] {logging_mixin.py:109} INFO - [2022-11-29 12:56:21,144] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:56:21,164] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.156 seconds
+[2022-11-29 12:58:22,492] {processor.py:163} INFO - Started process (PID=60862) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:58:22,493] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 12:58:22,493] {logging_mixin.py:109} INFO - [2022-11-29 12:58:22,493] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:58:22,587] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 12:58:22,605] {logging_mixin.py:109} INFO - [2022-11-29 12:58:22,605] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 12:58:22,615] {logging_mixin.py:109} INFO - [2022-11-29 12:58:22,615] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 12:58:22,634] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.144 seconds
+[2022-11-29 13:00:30,255] {processor.py:163} INFO - Started process (PID=61035) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:00:30,256] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:00:30,256] {logging_mixin.py:109} INFO - [2022-11-29 13:00:30,256] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:00:30,325] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:00:30,386] {logging_mixin.py:109} INFO - [2022-11-29 13:00:30,386] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:00:30,416] {logging_mixin.py:109} INFO - [2022-11-29 13:00:30,415] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:00:30,428] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.173 seconds
+[2022-11-29 13:02:34,756] {processor.py:163} INFO - Started process (PID=61219) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:02:34,757] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:02:34,757] {logging_mixin.py:109} INFO - [2022-11-29 13:02:34,757] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:02:34,838] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:02:34,867] {logging_mixin.py:109} INFO - [2022-11-29 13:02:34,866] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:02:34,889] {logging_mixin.py:109} INFO - [2022-11-29 13:02:34,889] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:02:34,900] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.144 seconds
+[2022-11-29 13:04:42,052] {processor.py:163} INFO - Started process (PID=61398) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:04:42,054] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:04:42,054] {logging_mixin.py:109} INFO - [2022-11-29 13:04:42,054] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:04:42,199] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:04:42,227] {logging_mixin.py:109} INFO - [2022-11-29 13:04:42,227] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:04:42,247] {logging_mixin.py:109} INFO - [2022-11-29 13:04:42,247] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:04:42,262] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.211 seconds
+[2022-11-29 13:37:01,563] {processor.py:163} INFO - Started process (PID=61620) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:37:01,564] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:37:01,564] {logging_mixin.py:109} INFO - [2022-11-29 13:37:01,564] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:37:01,654] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:37:01,688] {logging_mixin.py:109} INFO - [2022-11-29 13:37:01,688] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:37:01,710] {logging_mixin.py:109} INFO - [2022-11-29 13:37:01,710] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:37:01,719] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.158 seconds
+[2022-11-29 13:39:18,211] {processor.py:163} INFO - Started process (PID=61818) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:39:18,212] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:39:18,213] {logging_mixin.py:109} INFO - [2022-11-29 13:39:18,213] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:39:18,278] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:39:18,308] {logging_mixin.py:109} INFO - [2022-11-29 13:39:18,308] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:39:18,344] {logging_mixin.py:109} INFO - [2022-11-29 13:39:18,343] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:39:18,354] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.144 seconds
+[2022-11-29 13:41:30,728] {processor.py:163} INFO - Started process (PID=62011) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:41:30,730] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:41:30,730] {logging_mixin.py:109} INFO - [2022-11-29 13:41:30,730] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:41:30,841] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:41:30,874] {logging_mixin.py:109} INFO - [2022-11-29 13:41:30,874] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:41:30,896] {logging_mixin.py:109} INFO - [2022-11-29 13:41:30,896] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:41:30,908] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.181 seconds
+[2022-11-29 13:43:27,766] {processor.py:163} INFO - Started process (PID=62170) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:43:27,772] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:43:27,772] {logging_mixin.py:109} INFO - [2022-11-29 13:43:27,772] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:43:27,834] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:43:27,861] {logging_mixin.py:109} INFO - [2022-11-29 13:43:27,861] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:43:27,877] {logging_mixin.py:109} INFO - [2022-11-29 13:43:27,877] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:43:27,890] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.124 seconds
+[2022-11-29 13:45:22,767] {processor.py:163} INFO - Started process (PID=62333) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:45:22,770] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:45:22,770] {logging_mixin.py:109} INFO - [2022-11-29 13:45:22,770] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:45:22,819] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:45:22,836] {logging_mixin.py:109} INFO - [2022-11-29 13:45:22,836] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:45:22,846] {logging_mixin.py:109} INFO - [2022-11-29 13:45:22,846] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:45:22,853] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.086 seconds
+[2022-11-29 13:47:13,803] {processor.py:163} INFO - Started process (PID=62486) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:47:13,804] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:47:13,804] {logging_mixin.py:109} INFO - [2022-11-29 13:47:13,804] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:47:13,887] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:47:13,935] {logging_mixin.py:109} INFO - [2022-11-29 13:47:13,934] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:47:13,950] {logging_mixin.py:109} INFO - [2022-11-29 13:47:13,950] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:47:13,963] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.161 seconds
+[2022-11-29 13:49:08,025] {processor.py:163} INFO - Started process (PID=62644) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:49:08,031] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:49:08,033] {logging_mixin.py:109} INFO - [2022-11-29 13:49:08,033] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:49:08,107] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:49:08,138] {logging_mixin.py:109} INFO - [2022-11-29 13:49:08,138] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:49:08,153] {logging_mixin.py:109} INFO - [2022-11-29 13:49:08,153] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:49:08,164] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.141 seconds
+[2022-11-29 13:51:05,459] {processor.py:163} INFO - Started process (PID=62805) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:51:05,465] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:51:05,465] {logging_mixin.py:109} INFO - [2022-11-29 13:51:05,465] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:51:05,591] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:51:05,626] {logging_mixin.py:109} INFO - [2022-11-29 13:51:05,625] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:51:05,644] {logging_mixin.py:109} INFO - [2022-11-29 13:51:05,643] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:51:05,665] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.211 seconds
+[2022-11-29 13:53:01,225] {processor.py:163} INFO - Started process (PID=62961) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:53:01,231] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:53:01,231] {logging_mixin.py:109} INFO - [2022-11-29 13:53:01,231] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:53:01,319] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:53:01,350] {logging_mixin.py:109} INFO - [2022-11-29 13:53:01,350] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:53:01,366] {logging_mixin.py:109} INFO - [2022-11-29 13:53:01,366] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:53:01,383] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.158 seconds
+[2022-11-29 13:54:54,498] {processor.py:163} INFO - Started process (PID=63119) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:54:54,500] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:54:54,502] {logging_mixin.py:109} INFO - [2022-11-29 13:54:54,502] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:54:54,593] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:54:54,635] {logging_mixin.py:109} INFO - [2022-11-29 13:54:54,635] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:54:54,649] {logging_mixin.py:109} INFO - [2022-11-29 13:54:54,649] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:54:54,667] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.169 seconds
+[2022-11-29 13:56:51,563] {processor.py:163} INFO - Started process (PID=63281) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:56:51,568] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:56:51,569] {logging_mixin.py:109} INFO - [2022-11-29 13:56:51,569] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:56:51,639] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:56:51,666] {logging_mixin.py:109} INFO - [2022-11-29 13:56:51,666] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:56:51,679] {logging_mixin.py:109} INFO - [2022-11-29 13:56:51,678] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:56:51,695] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.133 seconds
+[2022-11-29 13:59:01,196] {processor.py:163} INFO - Started process (PID=63464) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:59:01,197] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 13:59:01,197] {logging_mixin.py:109} INFO - [2022-11-29 13:59:01,197] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:59:01,409] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 13:59:01,441] {logging_mixin.py:109} INFO - [2022-11-29 13:59:01,440] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 13:59:01,470] {logging_mixin.py:109} INFO - [2022-11-29 13:59:01,470] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 13:59:01,481] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.286 seconds
+[2022-11-29 14:01:01,274] {processor.py:163} INFO - Started process (PID=63642) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:01:01,276] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:01:01,276] {logging_mixin.py:109} INFO - [2022-11-29 14:01:01,276] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:01:01,359] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:01:01,388] {logging_mixin.py:109} INFO - [2022-11-29 14:01:01,388] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:01:01,402] {logging_mixin.py:109} INFO - [2022-11-29 14:01:01,402] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:01:01,418] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.144 seconds
+[2022-11-29 14:02:55,763] {processor.py:163} INFO - Started process (PID=63806) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:02:55,763] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:02:55,764] {logging_mixin.py:109} INFO - [2022-11-29 14:02:55,764] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:02:55,854] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:02:55,872] {logging_mixin.py:109} INFO - [2022-11-29 14:02:55,872] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:02:55,886] {logging_mixin.py:109} INFO - [2022-11-29 14:02:55,886] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:02:55,900] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.138 seconds
+[2022-11-29 14:04:50,159] {processor.py:163} INFO - Started process (PID=63964) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:04:50,167] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:04:50,168] {logging_mixin.py:109} INFO - [2022-11-29 14:04:50,167] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:04:50,246] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:04:50,279] {logging_mixin.py:109} INFO - [2022-11-29 14:04:50,279] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:04:50,296] {logging_mixin.py:109} INFO - [2022-11-29 14:04:50,296] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:04:50,313] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.154 seconds
+[2022-11-29 14:06:41,415] {processor.py:163} INFO - Started process (PID=64118) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:06:41,416] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:06:41,417] {logging_mixin.py:109} INFO - [2022-11-29 14:06:41,417] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:06:41,481] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:06:41,499] {logging_mixin.py:109} INFO - [2022-11-29 14:06:41,499] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:06:41,514] {logging_mixin.py:109} INFO - [2022-11-29 14:06:41,514] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:06:41,532] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.118 seconds
+[2022-11-29 14:08:32,628] {processor.py:163} INFO - Started process (PID=64273) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:08:32,628] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:08:32,629] {logging_mixin.py:109} INFO - [2022-11-29 14:08:32,628] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:08:32,691] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:08:32,719] {logging_mixin.py:109} INFO - [2022-11-29 14:08:32,718] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:08:32,737] {logging_mixin.py:109} INFO - [2022-11-29 14:08:32,737] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:08:32,749] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.122 seconds
+[2022-11-29 14:10:31,984] {processor.py:163} INFO - Started process (PID=64435) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:10:31,990] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:10:31,991] {logging_mixin.py:109} INFO - [2022-11-29 14:10:31,991] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:10:32,058] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:10:32,083] {logging_mixin.py:109} INFO - [2022-11-29 14:10:32,083] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:10:32,101] {logging_mixin.py:109} INFO - [2022-11-29 14:10:32,101] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:10:32,120] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.138 seconds
+[2022-11-29 14:12:23,742] {processor.py:163} INFO - Started process (PID=64592) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:12:23,743] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:12:23,743] {logging_mixin.py:109} INFO - [2022-11-29 14:12:23,743] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:12:23,811] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:12:23,844] {logging_mixin.py:109} INFO - [2022-11-29 14:12:23,843] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:12:23,861] {logging_mixin.py:109} INFO - [2022-11-29 14:12:23,861] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:12:23,876] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.136 seconds
+[2022-11-29 14:14:17,884] {processor.py:163} INFO - Started process (PID=64748) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:14:17,885] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:14:17,886] {logging_mixin.py:109} INFO - [2022-11-29 14:14:17,886] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:14:17,949] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:14:17,977] {logging_mixin.py:109} INFO - [2022-11-29 14:14:17,977] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:14:17,996] {logging_mixin.py:109} INFO - [2022-11-29 14:14:17,995] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:14:18,011] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.128 seconds
+[2022-11-29 14:16:09,247] {processor.py:163} INFO - Started process (PID=64905) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:16:09,248] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:16:09,248] {logging_mixin.py:109} INFO - [2022-11-29 14:16:09,248] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:16:09,332] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:16:09,354] {logging_mixin.py:109} INFO - [2022-11-29 14:16:09,354] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:16:09,370] {logging_mixin.py:109} INFO - [2022-11-29 14:16:09,370] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:16:09,384] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.138 seconds
+[2022-11-29 14:18:03,957] {processor.py:163} INFO - Started process (PID=65064) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:18:03,964] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:18:03,964] {logging_mixin.py:109} INFO - [2022-11-29 14:18:03,964] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:18:04,026] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:18:04,057] {logging_mixin.py:109} INFO - [2022-11-29 14:18:04,057] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:18:04,076] {logging_mixin.py:109} INFO - [2022-11-29 14:18:04,076] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:18:04,091] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.134 seconds
+[2022-11-29 14:19:58,121] {processor.py:163} INFO - Started process (PID=65221) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:19:58,126] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:19:58,127] {logging_mixin.py:109} INFO - [2022-11-29 14:19:58,127] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:19:58,174] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:19:58,197] {logging_mixin.py:109} INFO - [2022-11-29 14:19:58,196] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:19:58,208] {logging_mixin.py:109} INFO - [2022-11-29 14:19:58,208] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:19:58,217] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.096 seconds
+[2022-11-29 14:21:50,767] {processor.py:163} INFO - Started process (PID=65379) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:21:50,772] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:21:50,773] {logging_mixin.py:109} INFO - [2022-11-29 14:21:50,773] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:21:50,842] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:21:50,873] {logging_mixin.py:109} INFO - [2022-11-29 14:21:50,873] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:21:50,890] {logging_mixin.py:109} INFO - [2022-11-29 14:21:50,889] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:21:50,895] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.129 seconds
+[2022-11-29 14:23:47,600] {processor.py:163} INFO - Started process (PID=65537) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:23:47,606] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:23:47,606] {logging_mixin.py:109} INFO - [2022-11-29 14:23:47,606] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:23:47,687] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:23:47,706] {logging_mixin.py:109} INFO - [2022-11-29 14:23:47,706] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:23:47,716] {logging_mixin.py:109} INFO - [2022-11-29 14:23:47,716] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:23:47,728] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.130 seconds
+[2022-11-29 14:25:47,073] {processor.py:163} INFO - Started process (PID=65701) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:25:47,073] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:25:47,074] {logging_mixin.py:109} INFO - [2022-11-29 14:25:47,074] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:25:47,172] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:25:47,217] {logging_mixin.py:109} INFO - [2022-11-29 14:25:47,217] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:25:47,231] {logging_mixin.py:109} INFO - [2022-11-29 14:25:47,231] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:25:47,247] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.174 seconds
+[2022-11-29 14:28:09,659] {processor.py:163} INFO - Started process (PID=65924) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:28:09,664] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:28:09,665] {logging_mixin.py:109} INFO - [2022-11-29 14:28:09,665] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:28:09,750] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:28:09,768] {logging_mixin.py:109} INFO - [2022-11-29 14:28:09,768] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:28:09,782] {logging_mixin.py:109} INFO - [2022-11-29 14:28:09,782] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:28:09,802] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.145 seconds
+[2022-11-29 14:30:19,190] {processor.py:163} INFO - Started process (PID=66096) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:30:19,194] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:30:19,196] {logging_mixin.py:109} INFO - [2022-11-29 14:30:19,196] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:30:19,385] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:30:19,473] {logging_mixin.py:109} INFO - [2022-11-29 14:30:19,472] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:30:19,503] {logging_mixin.py:109} INFO - [2022-11-29 14:30:19,503] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:30:19,521] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.334 seconds
+[2022-11-29 14:32:40,253] {processor.py:163} INFO - Started process (PID=66302) to work on /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:32:40,254] {processor.py:642} INFO - Processing file /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-11-29 14:32:40,255] {logging_mixin.py:109} INFO - [2022-11-29 14:32:40,254] {dagbag.py:500} INFO - Filling up the DagBag from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:32:40,314] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-11-29 14:32:40,344] {logging_mixin.py:109} INFO - [2022-11-29 14:32:40,344] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-11-29 14:32:40,363] {logging_mixin.py:109} INFO - [2022-11-29 14:32:40,363] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-11-28 00:00:00+00:00
+[2022-11-29 14:32:40,376] {processor.py:171} INFO - Processing /Users/mac/github/ds-notebook/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.123 seconds
