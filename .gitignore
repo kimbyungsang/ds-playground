@@ -1,0 +1,13 @@
+/venv
+
+/airflow-data/logs
+
+/airflow-data/airflow.db
+/airflow-data/standalone_admin_password.txt
+/airflow-data/webserver_config.py
+/airflow-data/dags/__pycache__
+
+work/.ipynb_checkpoints
+
+
+
